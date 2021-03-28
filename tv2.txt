@@ -54,6 +54,18 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls#http://39.135.138.6:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
+小阿枫,#genre#
+明月夜,https://vd2.bdstatic.com/mda-kkt80hs233vjqty0/v1-cae/sc/mda-kkt80hs233vjqty0.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1616911790-0-0-1453e0fab211e47ae36192757e17a5fb&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2389617191&vid=13938013774995147519&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=898&split=830636
+女儿情,https://vd4.bdstatic.com/mda-jkvqa9gfuxf6x8dd/sc/mda-jkvqa9gfuxf6x8dd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1616909972-0-0-dbf79188648db7a6bea75143a09b8d98&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0571768827&vid=14687349337060125905&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1187&split=972800
+我要找到你,https://vd4.bdstatic.com/mda-kcbga5f2d5qdk7ra/v1-cae/sc/mda-kcbga5f2d5qdk7ra.mp4?auth_key=1616910273-0-0-3d81b010357315ab026c5a986657435e&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0873663294&vid=5699580038372439258&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1230&split=1132017
+漂洋过海来看你,https://vd2.bdstatic.com/mda-jm6kqxmk8gi66ypj/v1-cae/sc/mda-jm6kqxmk8gi66ypj.mp4?auth_key=1616910343-0-0-fce392814c83822d44caa226e6dd14c7&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0942842497&vid=4916501053169019119&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=666&split=616018
+爱江山更爱美人,https://vd3.bdstatic.com/mda-kku2gnv2iqhcf9b7/sc/mda-kku2gnv2iqhcf9b7.mp4?auth_key=1616910393-0-0-57b5c04bc2805b564560592d9d363bbf&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0993151384&vid=9493284974784974667&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=2528&split=2119855
+风中的承诺,https://vd3.bdstatic.com/mda-kjvevq8wj3p61b06/v1-cae/sc/mda-kjvevq8wj3p61b06.mp4?auth_key=1616910447-0-0-9b39a5b2bdb5c74305542e6b540e6da4&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1047256397&vid=7865734288296038614&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=706&split=764920
+心乱乱,https://vd2.bdstatic.com/mda-kjr1z20r93a3wvbd/v1-cae/sc/mda-kjr1z20r93a3wvbd.mp4?auth_key=1616910779-0-0-f4c399472c3dae22e9bb18ba1838d36d&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1379476028&vid=4368746262311018833&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1338&split=1281851
+醉倾城,https://vd4.bdstatic.com/mda-ma5nvbt7zt2zn67y/v1-cae/sc/mda-ma5nvbt7zt2zn67y.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1616910860-0-0-4fcb490ca7d140403681f3b694b05efa&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1460186056&vid=13506983071259595055&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1292&split=1292894
+光辉岁月,https://vd2.bdstatic.com/mda-jmebsq1h4rq4x9c7/sc/mda-jmebsq1h4rq4x9c7.mp4?auth_key=1616911566-0-0-c0be5706c6bb7d210803e4a0cf5adb10&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2166671718&vid=12092232931347844043&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1125&split=967820
+东南西北风,https://vd4.bdstatic.com/mda-kfg8vyjrmmbpnyvf/v1-cae/sc/mda-kfg8vyjrmmbpnyvf.mp4?auth_key=1616911613-0-0-56b015d9049ae88445b670d7a84c2f8f&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2213500802&vid=5769984852268583425&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=937&split=928973
+
 
 最爱歌曲,#genre#
 排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A-safe1600663646.m3u8
@@ -61,12 +73,6 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
 雅尼-For All Seasons,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330ewhRb5UqXRRsb9nKqO.mp4
 雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
-巨星金曲迎新春 第1集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330Er2DcyIsoClOlISJ3H.m3u8
-巨星金曲迎新春 第2集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330OSnsCdwvvnyO7tVo9w.m3u8
-巨星金曲迎新春 第3集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330DP3dRrYfqtq6VyPBNl.m3u8
-巨星金曲迎新春 第4集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/56233303FWTFhdGBb9wYV7boH.m3u8
-巨星金曲迎新春 第5集,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201220/5623330TxVAehrMQwH94njYEM.m3u8
-甜蜜蜜,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201231/56233303RsmdkhU56yo7PofTv.mp4
 哭砂,https://rescdn.yishihui.com/longvideo/transcode/video/live/201903265623330b7Y5a9jnTT1ZgnKF62.m3u8
 祝福,https://rescdn.yishihui.com/longvideo/transcode/video/live/201905145623330aCm0SD3BtrQpdu4aE0-safe1600664112.m3u8
 虚伪,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330PBpqCOlHlGpoXpt1o7.mp4
