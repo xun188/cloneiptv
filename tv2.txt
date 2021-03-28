@@ -43,6 +43,12 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 黑龙江卫视,http://39.135.33.12/PLTV/77777777/224/3221226564/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226656/index.m3u8
 上海纪实人文,http://39.135.33.12/PLTV/77777777/224/3221226727/index.m3u8
 北京冬奥纪实,http://39.135.33.12/PLTV/77777777/224/3221226668/index.m3u8
+邵氏老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+KiD电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+影视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+影视2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+影视3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 地方,#genre#
 江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#http://39.135.138.6:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 江西教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
@@ -285,6 +291,7 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254876~exp=1616341276~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=5a960c075d7f826b185630335d8d347a0aeb3067887c10d3206da410509555cc&p=3324$官网
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
 无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254773~exp=1616341173~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=0bc45564410c789f33d3ba7d4197303bd167df2aaa0fe7d2d5ecc0485ce77248&p=3324$官网
 有线新闻,https://pullhls3948069e.live.126.net/live/24c9b6f753b51aec1dd530f72368f863/playlist.m3u8$官网代理
 ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
