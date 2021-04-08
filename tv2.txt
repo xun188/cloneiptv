@@ -97,6 +97,8 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 雅尼-Playtime,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330e08trzq9cZvOAB6uP6.mp4
 雅尼-Renegade,https://vd4.bdstatic.com/mda-ihhme384xbtgztuw/sc/mda-ihhme384xbtgztuw.mp4?auth_key=1617886775-0-0-c0a65a2dd805e486d69aad28bcce3c8d&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1775262668&vid=9260898589534510482&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=2367&split=2143161
 雅尼-Nightingale夜莺,https://vd3.bdstatic.com/mda-jc9xf4nqjs1knpia/mda-jc9xf4nqjs1knpia.mp4?auth_key=1617886888-0-0-1d3368688817e6085b72c3b5e8522f73&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1887942708&vid=10055222613666264441&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=0&abtest=peav_l52&sle=1&sl=660&split=708306
+迈克尔杰克逊《Beat It》,https://vd2.bdstatic.com/mda-ki7uw949p0q064ii/mda-ki7uw949p0q064ii.mp4?playlist=%5B%22sc%22%2C%22hd%22%5D&v_from_s=hba_haokan_4469&auth_key=1617888869-0-0-34c7249fc54a0548894b13e1cba2a9fc&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
+后街男孩as long as you love me,https://vd3.bdstatic.com/mda-mc5i3neu3v2k8c07/v1-cae/mda-mc5i3neu3v2k8c07.mp4?playlist=%5B%221080p%22%2C%22hd%22%2C%22sc%22%5D&v_from_s=hba_haokan_4469&auth_key=1617889670-0-0-9c422790614257701e907dd535768806&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
 中岛美雪 この世に二人だけ,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8
 中岛美雪 竹の歌,https://rescdn.yishihui.com/longvideo/transcode/video/20190130/5623330kVkUWukKZyItiTseKA.m3u8
 明天会更好,https://rescdn.yishihui.com/longvideo/transcode/video/live/20191025/5623330EaBkagf7rZCC7Ea7so.m3u8
@@ -106,6 +108,8 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 洗手舞,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200415/5623330uSQ4ZUAKaoBvqL6TpE.m3u8
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 百听不厌的经典粤语,https://vd1.bdstatic.com/mda-hgkh2y5axdzbyhp3/hd/mda-hgkh2y5axdzbyhp3.mp4
+黄凯芹《雨中的恋人们》,https://vd2.bdstatic.com/mda-khh0u1ysypjx6bu2/v1-cae/mda-khh0u1ysypjx6bu2.mp4?playlist=%5B%22hd%22%2C%22sc%22%2C%221080p%22%5D&v_from_s=hba_haokan_4469&auth_key=1617888269-0-0-b8650dec8b40839bbf0a806e642a45e8&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
+男儿当自强,https://vd4.bdstatic.com/mda-kh02nr9zt0kt7n43/v1-cae/mda-kh02nr9zt0kt7n43.mp4?playlist=%5B%22hd%22%2C%22sc%22%2C%221080p%22%5D&v_from_s=hba_haokan_4469&auth_key=1617888420-0-0-13382c787c87ccbd0b5a54773cea4ac6&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
 鸟叔-PSY-佳人-Gentleman-[超清原版-282M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8YWg4gUorK-mugU.mp4
 吕方:朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 陈慧娴:千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
