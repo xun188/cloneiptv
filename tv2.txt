@@ -194,25 +194,34 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 凤凰资讯台,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8$FJ720P#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P#https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1#rtmp://58.200.131.2:1935/livetv/fhzx#http://live.centerch.com/fhzx.m3u8
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-有线电影,https://ws.matchupstream.tuboshu.com/live/b7282cd8f7f4cbbbd443dbc0f202bd1e.flv
-有线新闻,http://cdn.elibei.com/pull/index/pinyin/hkyxxw#https://flv3948069e.live.126.net/live/41bfe61711f4f7ece74454090d808cb6.flv
-翡翠台,https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
-无线新闻,https://pullhls3948069e.live.126.net/live/ce5fc01fa0f523160d85575738fd1e62/playlist.m3u8$官网代理
-无线新闻,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254876~exp=1616341276~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=5a960c075d7f826b185630335d8d347a0aeb3067887c10d3206da410509555cc&p=3324$官网
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-
-无线财经资讯,http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1616254773~exp=1616341173~acl=/__cl/slocalr2526/__c/ott_A_h264/__op/default/__f/*~hmac=0bc45564410c789f33d3ba7d4197303bd167df2aaa0fe7d2d5ecc0485ce77248&p=3324$官网
-有线新闻,https://pullhls3948069e.live.126.net/live/24c9b6f753b51aec1dd530f72368f863/playlist.m3u8$官网代理
-ViuTV 1080P,http://61.238.6.49:8000/bysid/99#http://hls.globaliptv.ml/viu99.php
-ViuTV 6HD,http://61.238.6.49:8000/bysid/96#http://hls.globaliptv.ml/viu96.php
-翡翠台 1080P,http://61.238.6.49:8000/bysid/1
-无线新闻 1080P,http://61.238.6.49:8001/bysid/83
-明珠台HD,http://61.238.6.49:8001/bysid/2
-J2 1080P,http://61.238.6.49:8001/bysid/82
-无线财经资讯台 1080P,http://61.238.6.49:8001/bysid/85
-香港電台視像新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
+NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.live.126.net/live/nownews.flv
+翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
+明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
+星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
+○Movie○,#genre#
+邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8#@https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+斗鱼电影,http://www.gz6hs.com/tv/douyu.php?id=218859
+斗鱼电影1,http://www.gz6hs.com/tv/douyu.php?id=20415
+斗鱼电影2,http://www.gz6hs.com/tv/douyu.php?id=122402
+斗鱼电影3,http://www.gz6hs.com/tv/douyu.php?id=85894
+斗鱼电影4,http://www.gz6hs.com/tv/douyu.php?id=310926
+斗鱼电影5,http://www.gz6hs.com/tv/douyu.php?id=5033502
+斗鱼电影6,http://www.gz6hs.com/tv/douyu.php?id=252802
+斗鱼电影7,http://www.gz6hs.com/tv/douyu.php?id=4332
+斗鱼电影8,http://www.gz6hs.com/tv/douyu.php?id=925724
+KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+金庸电影,http://kuqq.tk/00/huya.php?id=11352897
+许氏电影,http://kuqq.tk/00/huya.php?id=11602033
+金庸频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
+科幻电影,http://cdn.chxjon.cn/iptv/QQ582185381/migu.php?id=625204865
+搞笑港片,http://vip.auney.cn/api/huya.php?id=11601960
+喜剧电影,http://cdn.chxjon.cn/iptv/QQ582185381/douyu.php?id=9292492
+GITV经典港片,http://221.178.100.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c18_lb_jingdianguangpian_720p_t5/c18_lb_jingdianguangpian_720p_t5.m3u8
+HD影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+电影大片,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380187322
+动作电影,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380173422
+高分影院,http://cdn.chxjon.cn/iptv/QQ582185381/migu.php?id=627198191
 
