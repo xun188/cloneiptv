@@ -226,15 +226,17 @@ HD影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 动作电影,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380173422
 高分影院,http://cdn.chxjon.cn/iptv/QQ582185381/migu.php?id=627198191
 
-我的_9527,#genre#
-我的1,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
-我的2,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
-我的3,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
-我的4,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
-我的5,mitv://fccseuro.pvbox.live:18912/5c7249c70005b4431d57b8b006c16529
-我的6,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
-我的7,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
-我的8,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
-我的9,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
-我的10,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
+FOX ,mitv://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts
+FOX动作电影,mitv://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
+FOX优质影院,mitv://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
+FOX家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
+FOX犯罪影院,mitv://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
+HBO ,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+HBO Signature,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
+HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
+HITS,mitv://147.135.39.171:9906/5ed1603f0006f0c387755fa818635fdb.ts
+KIX,mitv://147.135.39.171:9906/5ed1603f000d135b8775612e2a3f7c34.ts
+Thrill,mitv://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
+华纳电视频道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 
