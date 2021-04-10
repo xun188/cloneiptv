@@ -198,12 +198,12 @@ NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.
 翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
 明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
-○湾湾#genre#
+○湾湾○,#genre#
 HBO,mitv://51.79.41.138:18912/5b14096900084dd9c11cc16c5611eb76.ts#mitv://51.79.41.138:18912/5b14096a000a35a18cfea51d3f86d8c2.ts#mitv://51.79.41.138:18912/5b140969000be13c0cfc86fe60fae30e.ts#mitv://fccsovh.pvbox.live:18912/5b593bbb00085133d676fe7d3a9716d3.ts#mitv://fccsovh.pvbox.live:18912/5b14096a000a35a18cfea51d3f86d8c2.ts#mitv://fccsovh.pvbox.live:18912/5b14096900084dd9c11cc16c5611eb76.ts#mitv://fccsovh.pvbox.live:18912/5b140969000be13c0cfc86fe60fae30e.ts#http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 天映,http://210.210.155.35/qwr9ew/s/s33/index.m3u8#mitv://fccsovh.pvbox.live:18912/5d650486000c7ef4744c8240e50b7194.ts#mitv://51.79.41.138e:18912/5d650486000c7ef469a1d747fa43ffe4.ts#mitv://fccseuro.pvbox.live:18912/5d650486000c7ef469a1d747fa43ffe4.ts
 龙祥电影台,mitv://51.79.41.138:18912/5b14092200071c61067c541fd2ceabf2.ts#mitv://fccsovh.pvbox.live:18912/5b14092200071c61067c541fd2ceabf2.ts
 
-○Movie○#genre#
+○Movie○,#genre#
 邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8#@https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 斗鱼电影,http://www.gz6hs.com/tv/douyu.php?id=218859
