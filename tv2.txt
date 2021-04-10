@@ -226,3 +226,15 @@ HD影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 动作电影,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380173422
 高分影院,http://cdn.chxjon.cn/iptv/QQ582185381/migu.php?id=627198191
 
+我的_9527,#genre#
+我的1,mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f
+我的2,mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615
+我的3,mitv://fccseuro.pvbox.live:18912/5c7249be000b8793baaac296ccc9199a
+我的4,mitv://fccseuro.pvbox.live:18912/5c7249c2000e510ff069277e6de97521
+我的5,mitv://fccseuro.pvbox.live:18912/5c7249c70005b4431d57b8b006c16529
+我的6,mitv://fccseuro.pvbox.live:18912/5c7249cb000744bc8d84a353672b18fe
+我的7,mitv://fccseuro.pvbox.live:18912/5c7249cf00095b61a6551090eece092b
+我的8,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8eaeedafc796b3ba9d2
+我的9,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d7ec3b14edfd4fe6f
+我的10,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+
