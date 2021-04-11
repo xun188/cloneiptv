@@ -70,7 +70,7 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 醉倾城,https://beiyong.gms-lighting.com/data/iqiyi/754b61172960b35fbd5346ac6c849be4.m3u8
 光辉岁月,https://vd2.bdstatic.com/mda-jmebsq1h4rq4x9c7/sc/mda-jmebsq1h4rq4x9c7.mp4?auth_key=1616911566-0-0-c0be5706c6bb7d210803e4a0cf5adb10&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2166671718&vid=12092232931347844043&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1125&split=967820
 东南西北风,https://vd4.bdstatic.com/mda-kfg8vyjrmmbpnyvf/v1-cae/sc/mda-kfg8vyjrmmbpnyvf.mp4?auth_key=1616911613-0-0-56b015d9049ae88445b670d7a84c2f8f&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2213500802&vid=5769984852268583425&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=937&split=928973
-最远的你是我最近的爱,https://vd2.bdstatic.com/mda-kkvt8t6kwpgrinmk/sc/mda-kkvt8t6kwpgrinmk.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1617100443-0-0-1304fcdb1c9bc5b3fb7d6d6f22ab0170&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0243325968&vid=12788020643611466080&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1187&split=972800
+最远的你是我最近的爱,https://vd2.bdstatic.com/mda-kkvt8t6kwpgrinmk/sc/mda-kkvt8t6kwpgrinmk.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1617100443-0-0-1304fcdb1c9bc5b3fb7d6d6f22ab0170&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0243325968&vid=12788020643611466080&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1187&split=972800#https://vd3.bdstatic.com/mda-kifjffee4z2sqpiy/v1-cae/sc/mda-kifjffee4z2sqpiy.mp4?auth_key=1618123901-0-0-ab3e6f62df136aff666823b1b774c7a3&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1300935415&vid=10694140411294282694&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=697&split=756437
 今天,https://vd2.bdstatic.com/mda-kheibq3wm6nmh7iz/v1-cae/sc/mda-kheibq3wm6nmh7iz.mp4?auth_key=1617100370-0-0-4c6ec490f18acd3cee321246d02abed2&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0169955662&vid=12606797458320982770&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1160&split=1042244
 你是人间四月天,https://vd2.bdstatic.com/mda-khniikxg1s4j8fed/sc/mda-khniikxg1s4j8fed.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1617025122-0-0-9f8d941c7e19b8a78e6c4d42efd569f6&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0521770076&vid=15586181512413417386&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1187&split=972800
 以后的以后,https://vd3.bdstatic.com/mda-kmduffthyiq1qju7/sc/mda-kmduffthyiq1qju7.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1617025553-0-0-b9756eb49f438f79edce0cf200277825&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0952929780&vid=11785851481180021021&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1187&split=972800
@@ -81,11 +81,17 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 爱上你等于爱上了错,http://vhotakamai.video.gtimg.com/szg_1525_50001_0b6bqaadgaaa3qac7r2y4fqfdagdgoaaam2a.f204110.mp4?stdfrom=v1090&type=mp4&vkey=07B15E4784701F18FFA6703F9D867063D71BF4234FE6168C6A9AB890AFA8C5562037087523728CAEBE3D74665D3DC61026D96D41D461D64B209ED8475BAF2B7AB42A491BC575E70AB4E8761E12240FFE2CC8680670BAF3A774F4432F7DE8EBD8E328951144C7B7E5AD68077C6501DA59&level=0&platform=11&br=33&fmt=hd&sp=0
 百花香,https://vd2.bdstatic.com/mda-kic2smruu3e7prum/sc/mda-kic2smruu3e7prum.mp4?auth_key=1617160926-0-0-8fec82f1e2980120675548fb334c40a9&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=3126064702&vid=14151807647809037426&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=495&split=465424
 点歌的人,https://vd4.bdstatic.com/mda-keaucwrzr0zd6fzc/v1-cae/sc/mda-keaucwrzr0zd6fzc.mp4?auth_key=1617969338-0-0-16e0aa43c346e899f48bc72a6258a508&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1538306938&vid=4955885793563854658&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=860&split=869033
+阿果吉曲,https://vd3.bdstatic.com/mda-ki11z272vx08bxqd/v1-cae/sc/mda-ki11z272vx08bxqd.mp4?auth_key=1618124180-0-0-27984862bab2755a4e3181f936abb599&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1580106490&vid=14737726038577499737&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=648&split=711921
+今夜我无法去入睡,https://vd3.bdstatic.com/mda-khseub9k36zjnpmq/v1-cae/sc/mda-khseub9k36zjnpmq.mp4?auth_key=1618123511-0-0-61c0c72e43454d24b58cef7c34a8a68e&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0911684367&vid=3855081294575030804&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=967&split=950676
 错位时空,https://vd2.bdstatic.com/mda-mccw3x4y4briua8e/sc/h264/1615641328/mda-mccw3x4y4briua8e.mp4?auth_key=1617161463-0-0-bef5e0899d6821e82cc3aec4ebc0b6d2&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0063518905&vid=9151080475413536746&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=446&split=471273
+放不下想又怕,https://vd3.bdstatic.com/mda-kikze8dq9p9fgakq/v1-cae/sc/mda-kikze8dq9p9fgakq.mp4?auth_key=1618123820-0-0-ccacf3ed4d3de6d7515c6e3e0f1ea526&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1220235301&vid=16052944772371829051&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=566&split=681305
 千千万万,https://vd2.bdstatic.com/mda-mbkpntkisbzudzjd/v1-cae/mda-mbkpntkisbzudzjd.mp4?playlist=%5B%22sc%22%2C%221080p%22%2C%22hd%22%5D&v_from_s=hkapp-haokan-shunyi&auth_key=1617885201-0-0-58902f76ca780c6065852fee537481c4&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=3000156_1
 用力活着,https://vd4.bdstatic.com/mda-km5wtewabct701qi/v1-cae/sc/mda-km5wtewabct701qi.mp4?auth_key=1617885763-0-0-21b279db40de6bd2b30c2130a3b2c9ad&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0763187831&vid=1982980897940378268&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1192&split=1181531
+上了年纪的男人,https://vd2.bdstatic.com/mda-ki413mr9q5dsaz5s/v1-cae/sc/mda-ki413mr9q5dsaz5s.mp4?auth_key=1618124067-0-0-9a7d59bb475f220e98a781301c302914&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1466773696&vid=11635549950937322103&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=797&split=886904
 最亲的人,https://vd2.bdstatic.com/mda-mbfn8u0kxqii6gtt/v1-cae/sc/mda-mbfn8u0kxqii6gtt.mp4?auth_key=1617886134-0-0-0a2294503cd915024c2a79782811a537&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1133925351&vid=9485750526795286156&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1467&split=1382907
 大风吹,https://vd4.bdstatic.com/mda-md7em6yt8xzcnjht/sc/cae_h264/1617849814/mda-md7em6yt8xzcnjht.mp4?auth_key=1617886505-0-0-8943f28393c858568a729824ade4129e&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1505050108&vid=13175023365864408748&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1273&split=1177669
+只要你还需要我,https://vd2.bdstatic.com/mda-kjkxdb0reyrn5uqc/v1-cae/sc/mda-kjkxdb0reyrn5uqc.mp4?auth_key=1618124386-0-0-afe9bd8ba5a12f13b4d216c882ce70f4&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1786072308&vid=5928823961285365780&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=860&split=911526
+醉过多少回,https://vd2.bdstatic.com/mda-khr03rq4hg98n7ev/v1-cae/sc/mda-khr03rq4hg98n7ev.mp4?auth_key=1618124543-0-0-d5a5a0877200c5024e18c5eb81510cc6&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1942874672&vid=11325929779437788360&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=863&split=909564
 嗑儿,https://vd2.bdstatic.com/mda-kb0py6ag3p1267rm/v1-cae/sc/mda-kb0py6ag3p1267rm.mp4?auth_key=1617100855-0-0-3d21077593827b36ddc4c38beaa49fcc&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0654833497&vid=4753646364703878220&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1567&split=1469406
 白月光与朱砂痣,https://vd2.bdstatic.com/mda-maij6as3g96970az/v1-cae/sc/mda-maij6as3g96970az.mp4?auth_key=1617101183-0-0-e93e7dc4ba17ac4b7480e6b00aa74492&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0983209397&vid=1749499625834732513&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=2358&split=2102146
 夜夜夜漫长,https://vd3.bdstatic.com/mda-makm556xaqftgc7j/v1-cae/sc/mda-makm556xaqftgc7j.mp4?auth_key=1617101290-0-0-8a89b2eb4a599546c225b4d799c7da1b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1090272169&vid=8654274912678609854&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1152&split=1091866
@@ -107,39 +113,9 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 洗手舞,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200415/5623330uSQ4ZUAKaoBvqL6TpE.m3u8
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 百听不厌的经典粤语,https://vd1.bdstatic.com/mda-hgkh2y5axdzbyhp3/hd/mda-hgkh2y5axdzbyhp3.mp4
+许巍《曾经的你》,https://vd2.bdstatic.com/mda-khd0k52mem1kgafq/v1-cae/mda-khd0k52mem1kgafq.mp4?playlist=%5B%22hd%22%2C%22sc%22%2C%221080p%22%5D&v_from_s=hba_haokan_4469&auth_key=1618124855-0-0-fab5e038ec11a2332d528966e114391a&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
 黄凯芹《雨中的恋人们》,https://vd2.bdstatic.com/mda-khh0u1ysypjx6bu2/v1-cae/mda-khh0u1ysypjx6bu2.mp4?playlist=%5B%22hd%22%2C%22sc%22%2C%221080p%22%5D&v_from_s=hba_haokan_4469&auth_key=1617888269-0-0-b8650dec8b40839bbf0a806e642a45e8&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
 男儿当自强,https://vd4.bdstatic.com/mda-kh02nr9zt0kt7n43/v1-cae/mda-kh02nr9zt0kt7n43.mp4?playlist=%5B%22hd%22%2C%22sc%22%2C%221080p%22%5D&v_from_s=hba_haokan_4469&auth_key=1617888420-0-0-13382c787c87ccbd0b5a54773cea4ac6&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
-鸟叔-PSY-佳人-Gentleman-[超清原版-282M.mp4-1080P],http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8YWg4gUorK-mugU.mp4
-吕方:朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
-陈慧娴:千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-人生何处不相逢,http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
-逝去的诺言,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJaedL%40%40ld.m3u8
-梁朝伟:一天一点爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
-叶倩文-潇洒走一回,http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
-叶倩文:曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
-张智霖:片片枫叶情,http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
-现代爱情故事,http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
-毛宁:晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
-心雨,http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8#http://v.cdn.sohu.com/1/3848669e7bd34d7eee7986aba3508e65/0
-蓝蓝的夜蓝蓝的梦,http://vodcdn.video.taobao.com/oss/ali-video/6d5a8c2e7667e3d6138246a45571d1f7/video.m3u8
-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
-孟庭苇:风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
-你究竟有几个好妹妹,http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
-红雨,http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
-无声的雨,http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
-谁的眼泪在飞,http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
-裘海正:爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
-陈明真:变心的翅膀,http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
-念念不忘的情人,http://vodcdn.video.taobao.com/oss/ali-video/a4e5b03f0ce8a9b20cea95e6ff3ce25a/video.m3u8
-周慧敏:痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
-成都,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx5ei5wUoqOfenwE.mp4
-酒醉的蝴蝶,http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4#http://220.194.238.108/13/g/n/n/a/gnnamgmkboroyzavqrwvzbirsfixzd/hd.yinyuetai.com/788C016AE414491B0910A3D62149D3BA.mp4?sc=0026dc416f856a39
-狂浪,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
-沙漠骆驼,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjbGM5gUon8K7eQ.mp4
-毛不易 Ⅰ 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
-毛不易 Ⅰ 牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
-林啟得 Ⅰ 大田后生仔,https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F40284dba7f6298e947920fa281898998a95118f96c5b0689661ad64dc9bfbf06
 萨顶顶 Ⅰ 左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost%2F9ce646d3e871069b3f23e45fc92e318ac9f5b3983d1ed3d996cc228026cba11e
 于文文 Ⅰ 体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost%2F1a9107b1210343ed30aa27779a042aab3d016777226b471ee5f38c8fc1e23cf1
 赵方婧 Ⅰ 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
@@ -175,19 +151,7 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 萧全/孙语赛 Ⅰ 不仅仅是喜欢,https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
 张碧晨/杨宗纬 Ⅰ 凉凉,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-1%2Fhost%2F48ecdbdd75091e496f4412f52dce3ee2999cd6b370518825555d86e248da64cd
 冯绍峰/赵丽颖 Ⅰ 知否知否,http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
-草蜢 Ⅰ 半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-草蜢 Ⅰ 失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
-草蜢 Ⅰ 忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
-陈慧娴 Ⅰ 孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
-信 Ⅰ 痴痴的等,http://220.194.238.108/13/e/h/c/q/ehcqynayfxyirmpxffnafnxjitjyal/hc.yinyuetai.com/C528016C17053EFB7D83DEC38D605EF4.mp4
-曾沛慈 Ⅰ 大风吹,http://hc.yinyuetai.com/uploads/videos/common/4086016D37EF920FB4DD565A05863393.mp4
-风小筝 Ⅰ 桃花雪,http://he.yinyuetai.com/uploads/videos/common/FCC6016632768FD4FFF341CE1877EEA4.mp4
-风 Ⅰ 火箭少女101,http://220.194.238.108/13/g/u/j/e/gujephdnduuxwaoavdidigppvmejso/hd.yinyuetai.com/ECEC016B8895E4A044C6B72FCF773B25.mp4?sc=dd99b1d215020624
-Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D5016618AFECD3CC41C37B7F4E1A9B.mp4
-金莎 Ⅰ 他不爱我,http://he.yinyuetai.com/uploads/videos/common/DD4B01404D970F1819C94E57E97BFA8C.mp4
-金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.mp4
-好运来,http://qukufile2.qianqian.com/data2/video/eec89851fbf3dea5c04cde1b3d792871/607947555/607947555.mp4
-生僻字,http://qukufile2.qianqian.com/data2/video/cd26bddcc2a26e164a465c9f900198b9/611737959/611737959.mp4
+
 
 ○港澳○,#genre#
 凤凰中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P#https://player.ggiptv.com/v/ifeng.php?id=2#rtmp://58.200.131.2:1935/livetv/fhzw#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://live.centerch.com/fhzw.m3u8
@@ -213,8 +177,6 @@ NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.
 斗鱼电影8,http://www.gz6hs.com/tv/douyu.php?id=925724
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-金庸电影,http://kuqq.tk/00/huya.php?id=11352897
-许氏电影,http://kuqq.tk/00/huya.php?id=11602033
 金庸频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
 科幻电影,http://cdn.chxjon.cn/iptv/QQ582185381/migu.php?id=625204865
 搞笑港片,http://vip.auney.cn/api/huya.php?id=11601960
