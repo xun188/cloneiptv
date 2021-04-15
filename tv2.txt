@@ -159,11 +159,28 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.live.126.net/live/nownews.flv
-翡翠台,https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
-明珠台,https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php#https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
+明珠台,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php#https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
-TVB 新闻台,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-
+TVB 新闻台,http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php#http://61.238.6.49:8001/bysid/85
+ANIMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
+AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+EVE,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
+DMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
+Travel Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
+HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
+HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
+HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
+Asian Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
+HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
+FOX ,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
+FOX MOVIES,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
+FOX CRIME,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
+FOX family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
+华纳电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
+卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
 ○影视○,#genre#
 邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8#@https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
