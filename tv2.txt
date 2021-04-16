@@ -67,7 +67,7 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 女儿情-爱江山更爱美人,https://vd4.bdstatic.com/mda-ka8j8gd8sf6gmn0j/sc/mda-ka8j8gd8sf6gmn0j.mp4?auth_key=1617024911-0-0-27b4e78428fc1a63dd1158616f268a5e&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0311770837&vid=5182049867380540312&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1183&split=1190588
 风中的承诺,https://vd3.bdstatic.com/mda-kjvevq8wj3p61b06/v1-cae/sc/mda-kjvevq8wj3p61b06.mp4?auth_key=1616910447-0-0-9b39a5b2bdb5c74305542e6b540e6da4&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1047256397&vid=7865734288296038614&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=706&split=764920
 心乱乱,https://vd2.bdstatic.com/mda-kjr1z20r93a3wvbd/v1-cae/sc/mda-kjr1z20r93a3wvbd.mp4?auth_key=1616910779-0-0-f4c399472c3dae22e9bb18ba1838d36d&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1379476028&vid=4368746262311018833&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1338&split=1281851
-醉倾城,https://beiyong.gms-lighting.com/data/iqiyi/754b61172960b35fbd5346ac6c849be4.m3u8
+醉倾城,https://vd2.bdstatic.com/mda-magbyuw2zk9t3fdz/v1-cae/sc/mda-magbyuw2zk9t3fdz.mp4?auth_key=1618538481-0-0-977a39f74f18ffc4656912896b2765d7&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1881286911&vid=3505340384751689469&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1453&split=1365824
 光辉岁月,https://vd2.bdstatic.com/mda-jmebsq1h4rq4x9c7/sc/mda-jmebsq1h4rq4x9c7.mp4?auth_key=1616911566-0-0-c0be5706c6bb7d210803e4a0cf5adb10&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2166671718&vid=12092232931347844043&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1125&split=967820
 东南西北风,https://vd4.bdstatic.com/mda-kfg8vyjrmmbpnyvf/v1-cae/sc/mda-kfg8vyjrmmbpnyvf.mp4?auth_key=1616911613-0-0-56b015d9049ae88445b670d7a84c2f8f&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=2213500802&vid=5769984852268583425&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=937&split=928973
 最远的你是我最近的爱,https://vd2.bdstatic.com/mda-kkvt8t6kwpgrinmk/sc/mda-kkvt8t6kwpgrinmk.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1617100443-0-0-1304fcdb1c9bc5b3fb7d6d6f22ab0170&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0243325968&vid=12788020643611466080&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1187&split=972800#https://vd3.bdstatic.com/mda-kifjffee4z2sqpiy/v1-cae/sc/mda-kifjffee4z2sqpiy.mp4?auth_key=1618123901-0-0-ab3e6f62df136aff666823b1b774c7a3&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1300935415&vid=10694140411294282694&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=697&split=756437
@@ -95,6 +95,7 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 嗑儿,https://vd2.bdstatic.com/mda-kb0py6ag3p1267rm/v1-cae/sc/mda-kb0py6ag3p1267rm.mp4?auth_key=1617100855-0-0-3d21077593827b36ddc4c38beaa49fcc&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0654833497&vid=4753646364703878220&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1567&split=1469406
 白月光与朱砂痣,https://vd2.bdstatic.com/mda-maij6as3g96970az/v1-cae/sc/mda-maij6as3g96970az.mp4?auth_key=1617101183-0-0-e93e7dc4ba17ac4b7480e6b00aa74492&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0983209397&vid=1749499625834732513&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=2358&split=2102146
 夜夜夜漫长,https://vd3.bdstatic.com/mda-makm556xaqftgc7j/v1-cae/sc/mda-makm556xaqftgc7j.mp4?auth_key=1617101290-0-0-8a89b2eb4a599546c225b4d799c7da1b&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=1090272169&vid=8654274912678609854&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1152&split=1091866
+踏山河,https://vd3.bdstatic.com/mda-mb3m4k3bprfbhbqc/v1-cae/sc/mda-mb3m4k3bprfbhbqc.mp4?auth_key=1618537533-0-0-7165e045222b9275d684a34de95e6519&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0933305796&vid=5570151663520023897&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1181&split=1108991
 排笛[老鹰之歌],https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20200317/5623330n7oQ6uBlXFhUdZTz3A-safe1600663646.m3u8
 雅尼-Rainmaker,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330A7S1Bib8Mk1R4xdS35.mp4
 雅尼-On Sacred Ground,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201213/5623330Lqza92Pie30kCoICfj.mp4
@@ -162,25 +163,7 @@ NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php#https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
 明珠台,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php#https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
-TVB 新闻台,http://61.238.6.49:8001/bysid/83#http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
-J2 1080P,http://61.238.6.49:8001/bysid/82#http://hls.globaliptv.ml/tvbj2.php#http://61.238.6.49:8001/bysid/85
-ANIMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
-AXN,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
-EVE,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
-DMAX,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
-Travel Channel,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13024&key=84797b799ae18d1b
-HBO,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b
-HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
-HBO signature,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
-Asian Food Network,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13005&key=84797b799ae18d1b
-HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
-HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13007&key=84797b799ae18d1b
-FOX ,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
-FOX MOVIES,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=84797b799ae18d1b
-FOX CRIME,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11009&key=84797b799ae18d1b
-FOX family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11010&key=84797b799ae18d1b
-华纳电影,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11011&key=84797b799ae18d1b
-卫视洋片台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11002&key=84797b799ae18d1b
+
 ○影视○,#genre#
 邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8#@https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
