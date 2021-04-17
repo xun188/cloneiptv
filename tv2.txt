@@ -63,6 +63,8 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 深圳移动,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szyd#http://ye23.win/iptv/sztv.php?id=8
 深圳DV生活,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szdv#http://ye23.win/iptv/sztv.php?id=10
 深圳国际,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szgj#http://ye23.win/iptv/sztv.php?id=11
+惠州1套 HD,http://livehuiz.chinamcache.com/live/zb01.m3u8#http://livehuiz.chinamcache.com/live/zb01.m3u8
+惠州2套 HD,http://livehuiz.chinamcache.com/live/zb02.m3u8#http://livehuiz.chinamcache.com/live/zb02.m3u8
 ○歌曲○,#genre#
 明月夜,https://vd4.bdstatic.com/mda-kkhhxqd7m5vnu9pm/sc/mda-kkhhxqd7m5vnu9pm.mp4?auth_key=1617025056-0-0-3733087b25c3a198a226c80ad4971029&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0455937380&vid=5780818133450836022&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=900&split=798645
 我要找到你,https://vd4.bdstatic.com/mda-kcbga5f2d5qdk7ra/v1-cae/sc/mda-kcbga5f2d5qdk7ra.mp4?auth_key=1616910273-0-0-3d81b010357315ab026c5a986657435e&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&did=087106dc4a782a246579d010463c3ad0&logid=0873663294&vid=5699580038372439258&pt=0&appver=2.7.6.2&model=MI+5&osver=10&cr=2&abtest=peav_l52&sle=1&sl=1230&split=1132017
@@ -163,7 +165,7 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.live.126.net/live/nownews.flv
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://61.238.6.49:8000/bysid/1#http://hls.globaliptv.ml/tvbjade.php#https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://hls.globaliptv.ml/tvbjade.php#http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8#https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理
 明珠台,http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php#https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
 
@@ -197,5 +199,22 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 影视2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 舌尖美食,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/735500/live_376772_5761871.m3u8
-
+HBO,P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+FOX,P2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts
+FOX Movies,P2p://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
+FOX Family Movies,P2p://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
+FOX CRIME,P2p://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
+FOX Action Movies,P2p://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
+CINEMAX,P2p://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
+星卫HD电影,P2p://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
+卫视西片台,P2p://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
+卫视卡式台,P2p://147.135.39.171:9906/5ec62ecd0005c21e5bbc173f4d127405.ts
+卫视电影台,P2p://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+好莱坞电影台,P2p://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117
+迪士尼频道(粤语),P2p://147.135.39.171:9906/5e98a1410004fff3a9cad3045ac83cb9.ts
+迪士尼频道,P2p://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=433654563351
+HBO Signature,P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
+HBO Hits,P2p://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=53655658536
+HBO HD,P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=18675711039
+HBO,P2p://147.135.39.171:9906/5f326ba0000c08a6843bda6612ec35bb.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
 
