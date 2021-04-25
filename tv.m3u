@@ -33,11 +33,11 @@ http://39.135.33.12/PLTV/77777777/224/3221226591/index.m3u8
 http://39.135.33.12/PLTV/77777777/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="" tvg-logo="" group-title="央视",CETV1
+#EXTINF:-1 tvg-id="18" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv1.png" group-title="央视",CETV1
 rtmp://58.200.131.3:1935/livetv/cetv1
-#EXTINF:-1 tvg-id="19" tvg-name="" tvg-logo="" group-title="央视",CETV3
+#EXTINF:-1 tvg-id="19" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv3.png" group-title="央视",CETV3
 rtmp://58.200.131.3:1935/livetv/cetv3
-#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="" group-title="央视",CETV4
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/cetv4.png" group-title="央视",CETV4
 rtmp://58.200.131.3:1935/livetv/cetv4
 #EXTINF:-1 tvg-id="21" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://39.135.33.12/PLTV/77777777/224/3221226605/index.m3u8
@@ -244,59 +244,49 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/1.m3u8
 #EXTINF:-1 tvg-id="237" tvg-name="NewTV精品纪录" tvg-logo="https://sppotato.github.io/icon/jpjl.png" group-title="NewTV频道",NewTV精品纪录 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/1.m3u8
-#EXTINF:-1 tvg-id="238" tvg-name="黑莓电影" tvg-logo="https://sppotato.github.io/icon/hmdy.png" group-title="Dox频道",黑莓电影 HD
+#EXTINF:-1 tvg-id="238" tvg-name="CIBN经典剧场" tvg-logo="" group-title="CIBN频道",CIBN经典剧场
+http://149.129.100.78/cibn.php?id=107
+#EXTINF:-1 tvg-id="239" tvg-name="CIBN古装剧场" tvg-logo="" group-title="CIBN频道",CIBN古装剧场
+http://149.129.100.78/cibn.php?id=80
+#EXTINF:-1 tvg-id="240" tvg-name="CIBN炫佳动漫" tvg-logo="" group-title="CIBN频道",CIBN炫佳动漫
+http://149.129.100.78/cibn.php?id=81
+#EXTINF:-1 tvg-id="241" tvg-name="CIBN怡家" tvg-logo="" group-title="CIBN频道",CIBN怡家
+http://149.129.100.78/cibn.php?id=79
+#EXTINF:-1 tvg-id="242" tvg-name="CIBN动漫剧场" tvg-logo="" group-title="CIBN频道",CIBN动漫剧场
+http://149.129.100.78/cibn.php?id=99
+#EXTINF:-1 tvg-id="243" tvg-name="CIBN骄阳剧场" tvg-logo="" group-title="CIBN频道",CIBN骄阳剧场
+http://149.129.100.78/cibn.php?id=98
+#EXTINF:-1 tvg-id="244" tvg-name="CIBN流金岁月" tvg-logo="" group-title="CIBN频道",CIBN流金岁月
+http://149.129.100.78/cibn.php?id=97
+#EXTINF:-1 tvg-id="245" tvg-name="CIBN纪录片" tvg-logo="" group-title="CIBN频道",CIBN纪录片
+http://149.129.100.78/cibn.php?id=103
+#EXTINF:-1 tvg-id="246" tvg-name="CIBN新知" tvg-logo="" group-title="CIBN频道",CIBN新知
+http://149.129.100.78/cibn.php?id=104
+#EXTINF:-1 tvg-id="247" tvg-name="CIBN幼儿" tvg-logo="" group-title="CIBN频道",CIBN幼儿绘画教程
+http://149.129.100.78/cibn.php?id=57
+#EXTINF:-1 tvg-id="248" tvg-name="CIBN真人秀" tvg-logo="" group-title="CIBN频道",CIBN真人秀
+http://149.129.100.78/cibn.php?id=106
+#EXTINF:-1 tvg-id="249" tvg-name="CIBN风尚运动" tvg-logo="" group-title="CIBN频道",CIBN风尚运动
+http://149.129.100.78/cibn.php?id=108
+#EXTINF:-1 tvg-id="250" tvg-name="CIBN东方教育" tvg-logo="" group-title="CIBN频道",CIBN东方教育
+http://149.129.100.78/cibn.php?id=113
+#EXTINF:-1 tvg-id="251" tvg-name="CIBN综合" tvg-logo="" group-title="CIBN频道",CIBN综合
+http://149.129.100.78/cibn.php?id=112
+#EXTINF:-1 tvg-id="252" tvg-name="CIBN全电竞" tvg-logo="" group-title="CIBN频道",CIBN全电竞
+http://149.129.100.78/cibn.php?id=115
+#EXTINF:-1 tvg-id="253" tvg-name="CIBN映画" tvg-logo="" group-title="CIBN频道",CIBN映画
+http://149.129.100.78/cibn.php?id=120
+#EXTINF:-1 tvg-id="254" tvg-name="CIBN时尚生活" tvg-logo="" group-title="CIBN频道",CIBN时尚生活
+http://149.129.100.78/cibn.php?id=122
+#EXTINF:-1 tvg-id="255" tvg-name="CIBN嗨播" tvg-logo="" group-title="CIBN频道",CIBN嗨播
+http://149.129.100.78/cibn.php?id=136
+#EXTINF:-1 tvg-id="256" tvg-name="CIBN MV" tvg-logo="" group-title="CIBN频道",CIBN MV
+http://149.129.100.78/cibn.php?id=338
+#EXTINF:-1 tvg-id="257" tvg-name="CIBN流行榜单" tvg-logo="" group-title="CIBN频道",CIBN流行榜单
+http://149.129.100.78/cibn.php?id=155
+#EXTINF:-1 tvg-id="258" tvg-name="CIBN巨星演唱会" tvg-logo="" group-title="CIBN频道",CIBN巨星演唱会
+http://149.129.100.78/cibn.php?id=135
+#EXTINF:-1 tvg-id="259" tvg-name="黑莓电影" tvg-logo="https://sppotato.github.io/icon/hmdy.png" group-title="黑莓频道",黑莓电影 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 tvg-id="239" tvg-name="黑莓动画" tvg-logo="https://sppotato.github.io/icon/hmdh.png" group-title="Dox频道",黑莓动画 HD
+#EXTINF:-1 tvg-id="260" tvg-name="黑莓动画" tvg-logo="https://sppotato.github.io/icon/hmdh.png" group-title="黑莓频道",黑莓动画 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 tvg-id="240" tvg-name="Dox剧场" tvg-logo="https://sppotato.github.io/icon/doxjc.png" group-title="Dox频道",Dox剧场 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="241" tvg-name="Dox怡家" tvg-logo="https://sppotato.github.io/icon/doxyj.png" group-title="Dox频道",Dox怡家 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="242" tvg-name="Dox新知" tvg-logo="https://sppotato.github.io/icon/doxxz.png" group-title="Dox频道",Dox新知 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="243" tvg-name="Dox新艺" tvg-logo="https://sppotato.github.io/icon/doxxy.png" group-title="Dox频道",Dox新艺 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="244" tvg-name="Dox映画" tvg-logo="https://sppotato.github.io/icon/doxxh.png" group-title="Dox频道",Dox映画 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="245" tvg-name="DOX院线" tvg-logo="https://sppotato.github.io/icon/doxhy.png" group-title="Dox频道",Dox环映 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="246" tvg-name="Dox英伦" tvg-logo="https://sppotato.github.io/icon/doxyl.png" group-title="Dox频道",Dox英伦 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="247" tvg-name="Dox雅趣" tvg-logo="https://sppotato.github.io/icon/doxyq.png" group-title="Dox频道",Dox雅趣 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="248" tvg-name="G+TV2" tvg-logo="https://sppotato.github.io/icon/gtv2.png" group-title="G+频道",G+都市剧场 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="249" tvg-name="G+TV3" tvg-logo="https://sppotato.github.io/icon/gtv3.png" group-title="G+频道",G+谍战剧场 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="250" tvg-name="G+TV4" tvg-logo="https://sppotato.github.io/icon/gtv4.png" group-title="G+频道",G+经典剧场 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="251" tvg-name="G+TV6" tvg-logo="https://sppotato.github.io/icon/gtv6.png" group-title="G+频道",G+动画乐园 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="252" tvg-name="G+TV7" tvg-logo="https://sppotato.github.io/icon/gtv7.png" group-title="G+频道",G+热门综艺 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="253" tvg-name="G+TV8" tvg-logo="https://sppotato.github.io/icon/gtv8.png" group-title="G+频道",G+科普中国 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="254" tvg-name="G+TV10" tvg-logo="https://sppotato.github.io/icon/gtv10.png" group-title="G+频道",G+海外佳片 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="255" tvg-name="G+TV11" tvg-logo="https://sppotato.github.io/icon/gtv11.png" group-title="G+频道",G+华语影院 HD
-http://39.135.16.150:6610/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="256" tvg-name="家庭剧场" tvg-logo="https://sppotato.github.io/icon/gaoqing1.png" group-title="G+频道",家庭剧场 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-#EXTINF:-1 tvg-id="257" tvg-name="家庭影院" tvg-logo="https://sppotato.github.io/icon/gaoqing2.png" group-title="G+频道",家庭影院 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-#EXTINF:-1 tvg-id="258" tvg-name="大众影视" tvg-logo="https://sppotato.github.io/icon/gaoqing3.png" group-title="G+频道",大众影视 HD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-#EXTINF:-1 tvg-id="259" tvg-name="快乐垂钓" tvg-logo="https://sppotato.github.io/icon/klcd.png" group-title="海看频道",快乐垂钓 HD
-http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
-#EXTINF:-1 tvg-id="260" tvg-name="海看大片" tvg-logo="https://sppotato.github.io/icon/hkdp.png" group-title="海看频道",海看大片 HD
-http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-id="261" tvg-name="海看剧场" tvg-logo="https://sppotato.github.io/icon/hkjc.png" group-title="海看频道",海看剧场 HD
-http://120.221.5.102:8089/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-id="262" tvg-name="海看少儿" tvg-logo="https://sppotato.github.io/icon/hkse.png" group-title="海看频道",海看少儿 HD
-http://120.221.5.102:8089/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1 tvg-id="263" tvg-name="海看热播" tvg-logo="https://sppotato.github.io/icon/hkrb.png" group-title="海看频道",海看热播 HD
-http://120.221.5.102:8089/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-id="264" tvg-name="海看电竞" tvg-logo="https://sppotato.github.io/icon/hkdj.png" group-title="海看频道",海看电竞 HD
-http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="海看爱宠" tvg-logo="https://sppotato.github.io/icon/hkac.png" group-title="海看频道",海看爱宠 HD
-http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
