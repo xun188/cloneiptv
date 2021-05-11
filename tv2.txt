@@ -41,7 +41,7 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 河南卫视,http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 黑龙江卫视,http://39.135.33.12/PLTV/77777777/224/3221226564/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226656/index.m3u8
 凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-
+鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 乡村瑶哥,http://txtest-xp2p.p2p.huya.com/src/1199532433820-1199532433820-5310977183219449856-2399064991096-10057-A-0-1.flv#http://kuqq.tk/00/huya.php?id=21354502
 乡村美食炊二锅,http://txtest-xp2p.p2p.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://kuqq.tk/00/huya.php?id=24309217
