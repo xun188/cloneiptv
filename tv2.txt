@@ -40,6 +40,8 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 河北卫视,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 河南卫视,http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 黑龙江卫视,http://39.135.33.12/PLTV/77777777/224/3221226564/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226656/index.m3u8
+凤凰中文 10M720,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 乡村瑶哥,http://txtest-xp2p.p2p.huya.com/src/1199532433820-1199532433820-5310977183219449856-2399064991096-10057-A-0-1.flv#http://kuqq.tk/00/huya.php?id=21354502
 乡村美食炊二锅,http://txtest-xp2p.p2p.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://kuqq.tk/00/huya.php?id=24309217
@@ -65,6 +67,17 @@ CCTV17,http://39.135.33.12/PLTV/77777777/224/3221226610/index.m3u8#http://39.135
 深圳移动,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szyd#http://ye23.win/iptv/sztv.php?id=8
 深圳DV生活,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szdv#http://ye23.win/iptv/sztv.php?id=10
 深圳国际,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szgj#http://ye23.win/iptv/sztv.php?id=11
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东综艺,http://111.161.121.214/nclive.grtn.cn/4K/sd/live.m3u8
+广东·南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
+广东·广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
+广东·广东影视,http://111.161.121.214/nclive.grtn.cn/tvs4/sd/live.m3u8
+广东·广东少儿,http://111.161.121.214/nclive.grtn.cn/tvs5/sd/live.m3u8
+广东·广东经济,http://111.161.121.214/nclive.grtn.cn/tvs1hd/hd/live.m3u8
+广东·珠江频道,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
+广东·广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
+广东·广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
+广东·番禺电视,http://live.pybtv.cn/channel1/sd/live.m3u8?_upt=16fb00e01563813775
 惠州1套 HD,http://livehuiz.chinamcache.com/live/zb01.m3u8#http://livehuiz.chinamcache.com/live/zb01.m3u8
 惠州2套 HD,http://livehuiz.chinamcache.com/live/zb02.m3u8#http://livehuiz.chinamcache.com/live/zb02.m3u8
 ○歌曲○,#genre#
@@ -167,8 +180,8 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
 NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.live.126.net/live/nownews.flv
-翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://185.207.176.189:8080/channels/tv-81/mpeg.2ts#http://hls.globaliptv.ml/tvbjade.php#http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8#https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理#tvbus://15kt11HTmNiHYbDF3VeSxDgtn4BCgLVeFBCPhzazURaMES8YWX
-明珠台,http://185.207.176.189:8080/channels/tv-84/mpeg.2ts#http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php#https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz#tvbus://12RnHPgXZCsDfE8j2E2uJbagww4e3P8CZZ5WGySe8rRBz7bGoc5
+翡翠台,http://47.242.54.220/daili/yang.php?token=ab1d9b446cc3b66623a95ac0c1661f32&tid=zdy2&id=jade#http://47.242.54.220/daili/yang.php?token=ab1d9b446cc3b66623a95ac0c1661f32&tid=zdy4&id=jade#http://47.242.54.220/daili/yang.php?token=ab1d9b446cc3b66623a95ac0c1661f32&tid=view&id=jade#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://185.207.176.189:8080/channels/tv-81/mpeg.2ts#http://hls.globaliptv.ml/tvbjade.php#http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8#https://flv3948069e.live.126.net/live/fct123456789.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg2a&id=jade#https://pullhls3948069e.live.126.net/live/9b8266d4ca908bb19e38930ff83eff79/playlist.m3u8$官网代理#tvbus://15kt11HTmNiHYbDF3VeSxDgtn4BCgLVeFBCPhzazURaMES8YWX
+明珠台,http://47.242.54.220/daili/yang.php?token=ab1d9b446cc3b66623a95ac0c1661f32&tid=zdy2&id=mz#http://47.242.54.220/daili/yang.php?token=ab1d9b446cc3b66623a95ac0c1661f32&tid=zdy4&id=mz#http://47.242.54.220/daili/yang.php?token=ab1d9b446cc3b66623a95ac0c1661f32&tid=view&id=mz#http://185.207.176.189:8080/channels/tv-84/mpeg.2ts#http://61.238.6.49:8001/bysid/2#http://hls.globaliptv.ml/tvbpearl.php#https://v3948069e.live.126.net/live/mingzhutai.flv#http://xiaojun.cyou/7108live/iptv/test/?m3u8=xg5a&id=mz#tvbus://12RnHPgXZCsDfE8j2E2uJbagww4e3P8CZZ5WGySe8rRBz7bGoc5
 星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.3:1935/livetv/natlgeo
