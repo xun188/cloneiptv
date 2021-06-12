@@ -79,29 +79,29 @@ CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 
 CCTV-2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
 
-CCTV-3,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV3,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 
-CCTV-3,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV3,http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
 
-CCTV-3,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV3,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 
-CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 
-CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV3,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 
-CCTV-3,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+CCTV3,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 
-CCTV-4,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
+CCTV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
 
-CCTV-4,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
+CCTV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
 
-CCTV-4,http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
+CCTV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
 
-CCTV-4,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+CCTV4,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 
-CCTV-4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 
-CCTV-4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
+CCTV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
 
 CCTV-4K,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 
@@ -131,17 +131,17 @@ CCTV-5+,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
 
 CCTV-5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 
-CCTV-6,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+CCTV6,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 
-CCTV-6,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV6,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 
-CCTV-6,http://111.12.102.68:6610/PLTV/77777777/224/3221225715/index.m3u8?
+CCTV6,http://111.12.102.68:6610/PLTV/77777777/224/3221225715/index.m3u8?
 
-CCTV-6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 
-CCTV-6,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+CCTV6,http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 
-CCTV-6,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
+CCTV6,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 
 CCTV-7,http://111.12.102.68:6610/PLTV/77777777/224/3221225627/index.m3u8?
 
