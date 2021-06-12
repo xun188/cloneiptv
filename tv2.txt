@@ -188,10 +188,10 @@ CCTV17,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/
 乡村美食炊二锅,http://txtest-xp2p.p2p.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://kuqq.tk/00/huya.php?id=24309217
 胖妹美食,http://txtest-xp2p.p2p.huya.com/src/2752-2752-11819749998592-2399147056830-10057-A-0-1.flv#http://kuqq.tk/00/huya.php?id=24430811
 舌尖上的中国,http://qj.yyrjdp.cn/jiuban/huya.php?id=11352955
-随手做美食,http://www.gz6hs.com/tv/douyu.php?id=9615087
-大海哥美食,http://www.gz6hs.com/tv/douyu.php?id=9696878
-美食作家王刚,http://www.gz6hs.com/tv/douyu.php?id=8144937
-厨师长农国栋,http://www.gz6hs.com/tv/douyu.php?id=8941512
+随手做美食,http://blanki.cf/api/douyu.php?id=9615087#http://www.gz6hs.com/tv/douyu.php?id=9615087
+大海哥美食,http://blanki.cf/api/douyu.php?id=9696878#http://www.gz6hs.com/tv/douyu.php?id=9696878
+美食作家王刚,http://blanki.cf/api/douyu.php?id=8144937#http://www.gz6hs.com/tv/douyu.php?id=8144937
+厨师长农国栋,http://blanki.cf/api/douyu.php?id=8941512#http://www.gz6hs.com/tv/douyu.php?id=8941512
 ○地方○,#genre#
 江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#http://149.129.100.78/jxtv.php?id=jxtv6#http://39.135.138.6:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 江西教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
@@ -337,18 +337,20 @@ NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery
 ○影视○,#genre#
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8#https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
-邵氏电影,http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
+邵氏电影,http://blanki.cf/api/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
 欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 亚洲影院,http://125.210.152.21:9120/live/YZYY.m3u8#http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153#http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttppSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zzjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-动作 灾难,http://www.gz6hs.com/tv/douyu.php?id=248753
-欧美 科幻,http://www.gz6hs.com/tv/douyu.php?id=20415
-华语 经典,http://www.gz6hs.com/tv/douyu.php?id=122402
-刘德华 周星驰,http://www.gz6hs.com/tv/douyu.php?id=85894
-科幻电影,http://www.gz6hs.com/tv/douyu.php?id=36337
-粤语,http://www.gz6hs.com/tv/douyu.php?id=5033502
-科幻 动作,http://www.gz6hs.com/tv/douyu.php?id=252802
-动作 经典,http://www.gz6hs.com/tv/douyu.php?id=4332
-喜剧科幻灾难,http://www.gz6hs.com/tv/douyu.php?id=3346305
+动作 灾难,http://blanki.cf/api/douyu.php?id=248753#http://www.gz6hs.com/tv/douyu.php?id=248753
+欧美 科幻,http://blanki.cf/api/douyu.php?id=20415#http://www.gz6hs.com/tv/douyu.php?id=20415
+恐怖灾难,http://blanki.cf/api/douyu.php?id=263824
+国语译制,http://blanki.cf/api/douyu.php?id=2436390
+华语 经典,http://blanki.cf/api/douyu.php?id=122402#http://www.gz6hs.com/tv/douyu.php?id=122402
+刘德华 周星驰,http://blanki.cf/api/douyu.php?id=85894#http://www.gz6hs.com/tv/douyu.php?id=85894
+科幻电影,http://blanki.cf/api/douyu.php?id=36337#http://www.gz6hs.com/tv/douyu.php?id=36337
+粤语,http://blanki.cf/api/douyu.php?id=5033502#http://www.gz6hs.com/tv/douyu.php?id=5033502
+科幻 动作,http://blanki.cf/api/douyu.php?id=252802#http://www.gz6hs.com/tv/douyu.php?id=252802
+动作 经典,http://blanki.cf/api/douyu.php?id=4332#http://www.gz6hs.com/tv/douyu.php?id=4332
+喜剧科幻灾难,http://blanki.cf/api/douyu.php?id=3346305#http://www.gz6hs.com/tv/douyu.php?id=3346305
 KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 金庸频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
