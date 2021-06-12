@@ -336,7 +336,7 @@ NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.3:1935/livetv/natlgeo
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery
 ○影视○,#genre#
-邵氏老电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8#@https://cn-hnzz-cmcc-live-01.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8#http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8#https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 邵氏电影,http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
 欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 亚洲影院,http://125.210.152.21:9120/live/YZYY.m3u8#http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153#http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttppSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zzjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
@@ -362,25 +362,3 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 影视2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 舌尖美食,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/735500/live_376772_5761871.m3u8
-HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts#mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8#http://iptv.starhd.pk:8880/ali/ali/4561#http://iptv.starhd.pk:8880/ali/ali/4563#http://iptv.starhd.pk:8880/ali/ali/12800#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5ee99af000016ed402b15ea945e4f694&link=4b71725dbf80ad3
-HBO family,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5ee99baf0008bc7e02b44aa07b928a4b&link=4b71725dbf80ad3#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5ee99bff000c4fe802b5840ab68bedc1&link=4b71725dbf80ad3
-HBO HITS,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b#p2p://23.237.42.6:8080/5ee99b37000d9dad02b27720f9109db1&link=4b71725dbf80ad3
-HBO強檔,mitv://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#mitv://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#mitv://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
-HBO原創,mitv://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts#mitv://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e.ts#mitv://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts
-FOX,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts#mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts#P2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts#mitv://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts#mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=84797b799ae18d1b
-FASHIONTV HD,mitv://fccsovh.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts#mitv://fccseuro.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts
-FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts#mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
-FOX MOVIES HD,mitv://fccseuro.pvbox.live:18912/5b7267ae000b9c6c6088518783c6367a.ts#mitv://fccsovh.pvbox.live:18912/5b7267ae000b9c6c6088518783c6367a.ts
-FOX PLUS HD,mitv://fccsovh.pvbox.live:18912/5b140977000ab01d7256677e192f2176.ts#mitv://fccseuro.pvbox.live:18912/5b140977000ab01d7256677e192f2176.ts
-FOX家庭,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts#mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
-FOX動作,mitv://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts#mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
-FOX警匪HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts#mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
-FX-HD,mitv://fccsovh.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts#mitv://fccseuro.pvbox.live:18912/5b593b240003f7478332bbefe27e84e1.ts
-CINEMAX,P2p://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts#tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8U
-星卫HD电影,P2p://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts#mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=84797b799ae18d1b#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11003&key=37118675739
-卫视西片台,P2p://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts#mitv://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
-卫视卡式台,P2p://147.135.39.171:9906/5ec62ecd0005c21e5bbc173f4d127405.ts#mitv://147.135.39.171:9906/5ec62ecd0005c21e5bbc173f4d127405.ts
-卫视电影台,P2p://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
-好莱坞电影台,mitv://ns2.hellotvvod.com:9906/2e5828de8abf40d7a74e6178a7b3547f.ts#P2p://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117#mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13016&key=935826757117#tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP
-迪士尼,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX#tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX#mitv://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts#mitv://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts#mitv://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts
-
