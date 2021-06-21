@@ -7,3 +7,15 @@ EPG接口
 http://epg.51zmt.top:8000/api/diyp/epg.php 
 https://epg.sec.st/epg.php
 http://ye23.win/diyp/epg.php
+YY解析接口：http://blanki.cf/api/yy.php?id=
+
+斗鱼解析接口：http://blanki.cf/api/douyu.php?id=
+
+企鹅解析接口：http://blanki.cf/api/qie.php?id=
+
+咪咕解析接口：http://blanki.cf/api/migu.php?id=
+
+节目预告接口：http://blanki.cf/api/epg.php?id=
+
+节目预告预览：http://blanki.cf/api/epg.php?id=blank
+
