@@ -202,8 +202,16 @@ CCTV17,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225576/index.m3u8?fmt=ts2hls
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225580/index.m3u8?fmt=ts2hls
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls#http://149.129.100.78/jxtv.php?id=jxtv2#http://39.135.138.6:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
-南昌新闻综合FHD,http://39.134.116.30:8080/PLTV/88888910/224/3221225774/index.m3u8
-南昌公共FHD,http://39.134.116.30:8080/PLTV/88888910/224/3221225775/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
+南昌新闻综合,http://39.135.138.6:6610/PLTV/88888888/224/3221226223/2/1000.m3u8
+南昌新闻综合,http://tydl2021.chxjon.cn/iptv/qq2383132354/jxnc.php?id=1
+南昌新闻综合,http://39.134.116.30:8080/PLTV/88888910/224/3221225774/index.m3u8
+南昌都市,http://39.135.138.6:6610/PLTV/88888888/224/3221226226/2/1000.m3u8
+南昌都市,http://tydl2021.chxjon.cn/iptv/qq2383132354/jxnc.php?id=2
+南昌资讯,http://39.135.138.6:6610/PLTV/88888888/224/3221226228/2/1000.m3u8
+南昌资讯,http://tydl2021.chxjon.cn/iptv/qq2383132354/jxnc.php?id=3
+南昌公共,http://39.135.138.6:6610/PLTV/88888888/224/3221226231/2/1000.m3u8
+南昌公共,http://tydl2021.chxjon.cn/iptv/qq2383132354/jxnc.php?id=4
+南昌公共,http://39.134.116.30:8080/PLTV/88888910/224/3221225775/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
 深圳卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳都市,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szds#http://ye23.win/iptv/sztv.php?id=2
 深圳电视剧,http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szdsj#http://ye23.win/iptv/sztv.php?id=3#http://www.wodedianshi.com/QQ860001680/sztv.php?id=3
@@ -354,6 +362,7 @@ NOW新闻台,https://flv3948069e.live.126.net/live/nownews.flv#http://v3948069e.
 喜剧科幻灾难,http://blanki.cf/api/douyu.php?id=3346305#http://www.gz6hs.com/tv/douyu.php?id=3346305
 爱笑会议室,http://blanki.cf/api/douyu.php?id=9288541
 最爱脱口秀,http://blanki.cf/api/douyu.php?id=762079
+相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 徐克,https://6721.liveplay.now.qq.com/live/6721_76c8ba6de24321642bad8c27873ade3a.m3u8
 动作,https://6721.liveplay.now.qq.com/live/6721_d6444ffbe53109998cf994997ba53539.m3u8?txSecret=b089bfea7ddc8198df922a5137f4c45d&txTime=608C105F
 迪士尼,https://6721.liveplay.now.qq.com/live/6721_add818f0f0d19b173950051ef9b56a2f.flv?txSecret=e8de816b98cf873db4492af7f6020541&txTime=60C5EBC1
