@@ -366,9 +366,16 @@ HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 动作 经典,http://blanki.cf/api/douyu.php?id=4332#http://www.gz6hs.com/tv/douyu.php?id=4332
 喜剧科幻灾难,http://blanki.cf/api/douyu.php?id=3346305#http://www.gz6hs.com/tv/douyu.php?id=3346305
 爱笑会议室,http://blanki.cf/api/douyu.php?id=9288541
+80脱口秀,http://auney.gearhostpreview.com/huya.php?id=11352961
+历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
+香港贺岁片爆笑,http://auney.gearhostpreview.com/huya.php?id=21059561
+中国功夫,http://auney.gearhostpreview.com/huya.php?id=11352941
+金庸的武侠世界,http://auney.gearhostpreview.com/huya.php?id=11342435
+爆笑大片,http://auney.gearhostpreview.com/huya.php?id=11352954
+愚人节一起笑破肚皮,http://auney.gearhostpreview.com/huya.php?id=11336590
 最爱脱口秀,http://121.12.115.156/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://blanki.cf/api/douyu.php?id=762079
-陈翔六点半,http://121.12.115.156/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8
-相声小品,http://121.12.115.156/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
+陈翔六点半,http://121.12.115.156/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8#http://auney.gearhostpreview.com/huya.php?id=11274154
+相声小品,http://auney.gearhostpreview.com/huya.php?id=11352938#http://121.12.115.156/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 徐克,https://6721.liveplay.now.qq.com/live/6721_76c8ba6de24321642bad8c27873ade3a.m3u8
 动作,https://6721.liveplay.now.qq.com/live/6721_d6444ffbe53109998cf994997ba53539.m3u8?txSecret=b089bfea7ddc8198df922a5137f4c45d&txTime=608C105F
 迪士尼,https://6721.liveplay.now.qq.com/live/6721_add818f0f0d19b173950051ef9b56a2f.flv?txSecret=e8de816b98cf873db4492af7f6020541&txTime=60C5EBC1
