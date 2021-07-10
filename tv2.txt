@@ -350,22 +350,22 @@ FOX家庭电影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 ○影视○,#genre#
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8#https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
-邵氏电影,http://blanki.cf/api/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
+邵氏电影,https://1332355592.top/live/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
 欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 亚洲影院,http://39.134.176.148/PLTV/88888888/224/3221226245/index.m3u8
-动作 灾难,http://blanki.cf/api/douyu.php?id=248753#http://www.gz6hs.com/tv/douyu.php?id=248753
-欧美 科幻,http://blanki.cf/api/douyu.php?id=20415#http://www.gz6hs.com/tv/douyu.php?id=20415
-恐怖灾难,http://blanki.cf/api/douyu.php?id=263824
-国语译制,http://blanki.cf/api/douyu.php?id=2436390
-华语 经典,http://blanki.cf/api/douyu.php?id=122402#http://www.gz6hs.com/tv/douyu.php?id=122402
-喜剧,http://blanki.cf/api/douyu.php?id=4332#http://www.gz6hs.com/tv/douyu.php?id=85894
-科幻电影,http://blanki.cf/api/douyu.php?id=36337#http://www.gz6hs.com/tv/douyu.php?id=36337
-粤语,http://blanki.cf/api/douyu.php?id=5033502#http://www.gz6hs.com/tv/douyu.php?id=5033502
-经典粤语,http://blanki.cf/api/douyu.php?id=6566671
-科幻 动作,http://blanki.cf/api/douyu.php?id=252802#http://www.gz6hs.com/tv/douyu.php?id=252802
-动作 经典,http://blanki.cf/api/douyu.php?id=4332#http://www.gz6hs.com/tv/douyu.php?id=4332
-喜剧科幻灾难,http://blanki.cf/api/douyu.php?id=3346305#http://www.gz6hs.com/tv/douyu.php?id=3346305
-爱笑会议室,http://blanki.cf/api/douyu.php?id=9288541
+动作 灾难,https://1332355592.top/live/douyu.php?id=248753#http://www.gz6hs.com/tv/douyu.php?id=248753
+欧美 科幻,https://1332355592.top/live/douyu.php?id=20415#http://www.gz6hs.com/tv/douyu.php?id=20415
+恐怖灾难,https://1332355592.top/live/douyu.php?id=263824
+国语译制,https://1332355592.top/live/douyu.php?id=2436390#http://blanki.cf/api/douyu.php?id=2436390
+华语 经典,https://1332355592.top/live/douyu.php?id=122402#http://www.gz6hs.com/tv/douyu.php?id=122402
+喜剧,https://1332355592.top/live/douyu.php?id=4332#http://www.gz6hs.com/tv/douyu.php?id=85894
+科幻电影,https://1332355592.top/live/douyu.php?id=36337#http://www.gz6hs.com/tv/douyu.php?id=36337
+粤语,https://1332355592.top/live/douyu.php?id=5033502#http://www.gz6hs.com/tv/douyu.php?id=5033502
+经典粤语,https://1332355592.top/live/douyu.php?id=6566671
+科幻 动作,https://1332355592.top/live/douyu.php?id=252802#http://www.gz6hs.com/tv/douyu.php?id=252802
+动作 经典,https://1332355592.top/live/douyu.php?id=85894#http://www.gz6hs.com/tv/douyu.php?id=4332
+喜剧科幻灾难,https://1332355592.top/live/douyu.php?id=3346305#http://www.gz6hs.com/tv/douyu.php?id=3346305
+爱笑会议室,https://1332355592.top/live/douyu.php?id=9288541
 80脱口秀,http://auney.gearhostpreview.com/huya.php?id=11352961
 历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
 香港贺岁片爆笑,http://auney.gearhostpreview.com/huya.php?id=21059561
