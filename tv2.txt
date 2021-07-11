@@ -381,10 +381,7 @@ HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m
 迪士尼,https://6721.liveplay.now.qq.com/live/6721_add818f0f0d19b173950051ef9b56a2f.flv?txSecret=e8de816b98cf873db4492af7f6020541&txTime=60C5EBC1
 金庸频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
 科幻电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
-HD影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-金马影院,https://pull.kktv8.com/livekktv/128600025/playlist.m3u8
-经典佳片,https://pull.kktv8.com/livekktv/154995211/playlist.m3u8
-影视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
-影视2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-影视3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+番茄影院,https://pull.kktv8.com/livekktv/155443364.flv
+金马影院,https://pull.kktv8.com/livekktv/128600025/playlist.m3u8#https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
+经典佳片,https://pull.kktv8.com/livekktv/154995211/playlist.m3u8#https://pull.kktv8.com/livekktv/154995211.flv
 舌尖美食,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/735500/live_376772_5761871.m3u8
