@@ -5,6 +5,7 @@ http://seetv.oka.pub/api/jjtv.php
 http://seetv.oka.pub/api/hqjj.php
 EPG接口
 http://epg.51zmt.top:8000/api/diyp/epg.php 
+https://epg.112114.xyz/epg.php 
 https://epg.sec.st/epg.php
 http://ye23.win/diyp/epg.php
 YY解析接口：http://blanki.cf/api/yy.php?id=
