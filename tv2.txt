@@ -227,9 +227,9 @@ CCTV17,http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts
 音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-乡村瑶哥,http://txtest-xp2p.p2p.huya.com/src/1199532433820-1199532433820-5310977183219449856-2399064991096-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=21354502
-乡村美食炊二锅,http://txtest-xp2p.p2p.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24309217
-胖妹美食,http://txtest-xp2p.p2p.huya.com/src/2752-2752-11819749998592-2399147056830-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24430811
+乡村瑶哥,http://48tv.cn/jx/huya.php?id=21354502&type=.m3u8#http://txtest-xp2p.p2p.huya.com/src/1199532433820-1199532433820-5310977183219449856-2399064991096-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=21354502
+乡村美食炊二锅,http://48tv.cn/jx/huya.php?id=24309217&type=.m3u8#http://txtest-xp2p.p2p.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24309217
+胖妹美食,http://48tv.cn/jx/huya.php?id=24430811&type=.m3u8#http://txtest-xp2p.p2p.huya.com/src/2752-2752-11819749998592-2399147056830-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24430811
 舌尖上的中国,http://auney.gearhostpreview.com/huya.php?id=11352955
 随手做美食,http://skylin.ke22.aihost69.top/douyu.php?id=9615087#https://1332355592.top/live/douyu.php?id=9615087#http://epg.112114.xyz/douyu/9615087#http://www.gz6hs.com/tv/douyu.php?id=9615087
 大海哥美食,http://skylin.ke22.aihost69.top/douyu.php?id=9696878#https://1332355592.top/live/douyu.php?id=9696878#http://epg.112114.xyz/douyu/9696878#http://www.gz6hs.com/tv/douyu.php?id=9696878
@@ -437,15 +437,15 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 动作 经典,https://1332355592.top/live/douyu.php?id=85894#http://www.gz6hs.com/tv/douyu.php?id=4332
 喜剧科幻灾难,https://1332355592.top/live/douyu.php?id=3346305#http://www.gz6hs.com/tv/douyu.php?id=3346305
 爱笑会议室,https://1332355592.top/live/douyu.php?id=9288541
-80脱口秀,http://auney.gearhostpreview.com/huya.php?id=11352961
-历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
-香港贺岁片爆笑,http://auney.gearhostpreview.com/huya.php?id=21059561
-中国功夫,http://auney.gearhostpreview.com/huya.php?id=11352941
-金庸的武侠世界,http://auney.gearhostpreview.com/huya.php?id=11342435
-爆笑大片,http://auney.gearhostpreview.com/huya.php?id=11352954
-愚人节一起笑破肚皮,http://auney.gearhostpreview.com/huya.php?id=11336590
-最爱脱口秀,http://121.12.115.156/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://blanki.cf/api/douyu.php?id=762079
-陈翔六点半,http://121.12.115.156/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8#http://auney.gearhostpreview.com/huya.php?id=11274154
+80脱口秀,http://48tv.cn/jx/huya.php?id=11352961&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352961
+历年贺岁档,http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=11601986
+香港贺岁片爆笑,http://48tv.cn/jx/huya.php?id=21059561&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=21059561
+中国功夫,http://48tv.cn/jx/huya.php?id=11352941&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352941
+金庸的武侠世界,http://48tv.cn/jx/huya.php?id=11342435&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342435
+爆笑大片,http://48tv.cn/jx/huya.php?id=11352954&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352954
+愚人节一起笑破肚皮,http://48tv.cn/jx/huya.php?id=11336590&type=.m3u8#http://auney.gearhostpreview.com/huya.php?id=11336590
+最爱脱口秀,http://121.12.115.156/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://48tv.cn/jx/huya.php?id=762079&type=.m3u8#http://blanki.cf/api/douyu.php?id=762079
+陈翔六点半,http://48tv.cn/jx/huya.php?id=11274154&type=.m3u8#http://121.12.115.156/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8#http://auney.gearhostpreview.com/huya.php?id=11274154
 相声小品,http://auney.gearhostpreview.com/huya.php?id=11352938#http://121.12.115.156/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 徐克,https://6721.liveplay.now.qq.com/live/6721_76c8ba6de24321642bad8c27873ade3a.m3u8
 动作,https://6721.liveplay.now.qq.com/live/6721_d6444ffbe53109998cf994997ba53539.m3u8?txSecret=b089bfea7ddc8198df922a5137f4c45d&txTime=608C105F
