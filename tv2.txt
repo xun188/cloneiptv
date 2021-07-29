@@ -144,7 +144,12 @@ CCTV17,http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts
 兵器科技,http://58.200.190.80/hls/hls184a573.m3u8#http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-
+兵器科技,http://329s42n597.qicp.vip:65533/udp/238.1.79.56:4584
+第一剧场,http://329s42n597.qicp.vip:65533/udp/238.1.79.63:4640
+风云剧场,http://329s42n597.qicp.vip:65533/udp/238.1.79.62:4632
+怀旧剧场,http://329s42n597.qicp.vip:65533/udp/238.1.79.61:4624
+女性时尚,http://329s42n597.qicp.vip:65533/udp/238.1.79.55:4576
+风云音乐,http://329s42n597.qicp.vip:65533/udp/238.1.79.64:4648
 
 ○卫视○,#genre#
 湖南卫视,http://39.134.155.135/PLTV/88888888/224/3221225555/index.m3u8
