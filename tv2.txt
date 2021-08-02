@@ -337,6 +337,10 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
 南昌公共,http://39.135.138.6:6610/PLTV/88888888/224/3221226231/2/1000.m3u8
 南昌公共,http://tydl2021.chxjon.cn/iptv/qq2383132354/jxnc.php?id=4
 南昌公共,http://39.134.116.30:8080/PLTV/88888910/224/3221225775/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
+南昌新闻综合,http://39.135.140.104:6610/PLTV/88888888/224/3221226223/2/index.m3u8?fmt=ts2hls#https://www.navchina.cf/IPTV/nanchang.php?id=ncxwzh
+南昌都市,http://39.135.140.104:6610/PLTV/88888888/224/3221226226/2/index.m3u8?fmt=ts2hls#https://www.navchina.cf/IPTV/nanchang.php?id=ncds
+南昌资讯,http://39.135.140.104:6610/PLTV/88888888/224/3221226228/2/index.m3u8?fmt=ts2hls#https://www.navchina.cf/IPTV/nanchang.php?id=nczx
+南昌公共,http://39.135.140.104:6610/PLTV/88888888/224/3221226231/2/index.m3u8?fmt=ts2hls#https://www.navchina.cf/IPTV/nanchang.php?id=ncgg
 深圳卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳都市,http://149.129.100.78/sztv.php?id=2#http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szds#http://ye23.win/iptv/sztv.php?id=2
 深圳电视剧,http://149.129.100.78/sztv.php?id=3#http://cdn.chxjon.cn:80/iptv/QQ582185381/itouch.php?id=szdsj#http://ye23.win/iptv/sztv.php?id=3#http://www.wodedianshi.com/QQ860001680/sztv.php?id=3
