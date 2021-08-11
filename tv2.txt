@@ -491,33 +491,32 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 武侠剧场,http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
 古    装,http://va.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv
 镖行天下,http://hy.tushepy.com/pls/huya.php?id=11352969#http://kuqq.tk/00/huya.php?id=11352969
-动作大片,http://121.12.115.156/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
-动作 灾难,http://tx2play1.douyucdn.cn/live/248753rn5NROcDXx.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
-欧美 科幻,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=20415#http://epg.112114.xyz/douyu/20415
-恐怖灾难,http://tx2play1.douyucdn.cn/live/263824rxwFARCWaC.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=263824#http://epg.112114.xyz/douyu/263824
-国语译制,http://tx2play1.douyucdn.cn/live/2436390rhJd4kFfT.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=2436390#http://epg.112114.xyz/douyu/2436390
-华语 经典,http://skylin.ke22.aihost69.top/douyu.php?id=122402#http://epg.112114.xyz/douyu/122402
-喜剧,http://tx2play1.douyucdn.cn/live/4332rPilCZUnNr9P.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=4332#http://epg.112114.xyz/douyu/85894
-科幻电影,http://tx2play1.douyucdn.cn/live/36337r1uH4b7ZLzs.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=36337#http://epg.112114.xyz/douyu/36337
-粤语,http://tx2play1.douyucdn.cn/live/5033502rrYtnBjpx.flv?uuid=#http://skylin.ke22.aihost69.top/douyu.php?id=5033502#http://epg.112114.xyz/douyu/5033502
-经典粤语,http://skylin.ke22.aihost69.top/douyu.php?id=6566671#http://epg.112114.xyz/douyu/6566671
-科幻 动作,http://skylin.ke22.aihost69.top/douyu.php?id=252802#http://epg.112114.xyz/douyu/252802
-动作 经典,http://skylin.ke22.aihost69.top/douyu.php?id=85894#http://epg.112114.xyz/douyu/4332
-喜剧科幻灾难,http://skylin.ke22.aihost69.top/douyu.php?id=3346305#http://epg.112114.xyz/douyu/3346305
-爱笑会议室http://skylin.ke22.aihost69.top/douyu.php?id=9288541#http://epg.112114.xyz/douyu/9288541
+动作大片,http://121.51.94.19/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
+动作 灾难,http://blanki.cf/api/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
+欧美 科幻,http://epg.112114.xyz/douyu/20415
+恐怖灾难,http://epg.112114.xyz/douyu/263824
+国语译制,http://epg.112114.xyz/douyu/2436390
+华语 经典,http://epg.112114.xyz/douyu/122402
+喜剧,http://epg.112114.xyz/douyu/85894
+科幻电影,http://epg.112114.xyz/douyu/36337
+粤语,http://epg.112114.xyz/douyu/5033502
+经典粤语,http://epg.112114.xyz/douyu/6566671
+科幻 动作,http://epg.112114.xyz/douyu/252802
+动作 经典,http://epg.112114.xyz/douyu/4332
+喜剧科幻灾难,http://epg.112114.xyz/douyu/3346305
+爱笑会议室,http://epg.112114.xyz/douyu/9288541
 80脱口秀,http://48tv.cn/jx/huya.php?id=11352961&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352961
-历年贺岁档,http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11601986
-香港贺岁片爆笑,http://hy.tushepy.com/pls/huya.php?id=21059561
-中国功夫,http://48tv.cn/jx/huya.php?id=11352941&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352941
-金庸的武侠世界,http://48tv.cn/jx/huya.php?id=11342435&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11342435
-爆笑大片,http://48tv.cn/jx/huya.php?id=11352954&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352954
-愚人节一起笑破肚皮,http://48tv.cn/jx/huya.php?id=11336590&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11336590
-最爱脱口秀,http://121.12.115.156/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://48tv.cn/jx/huya.php?id=762079&type=.m3u8#http://blanki.cf/api/douyu.php?id=762079
-陈翔六点半,http://48tv.cn/jx/huya.php?id=11274154&type=.m3u8#http://121.12.115.156/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8#http://auney.gearhostpreview.com/huya.php?id=11274154
-相声小品,http://hy.tushepy.com/pls/huya.php?id=11352938#http://121.12.115.156/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
-徐克,http://hy.tushepy.com/pls/huya.php?id=11352909#http://kuqq.tk/00/huya.php?id=11352909
+历年贺岁档,http://121.51.94.19/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8#http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11601986
+香港贺岁片爆笑,http://121.51.94.19/tx.hls.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=21059561
+中国功夫,http://121.51.94.19/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11352941&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352941
+金庸的武侠世界,http://121.51.94.19/tx.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11342435&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11342435
+爆笑大片,http://121.51.94.19/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11352954&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352954
+愚人节一起笑破肚皮,http://121.51.94.19/tx.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11336590&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11336590
+最爱脱口秀,http://121.51.94.19/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://48tv.cn/jx/huya.php?id=762079&type=.m3u8#http://blanki.cf/api/douyu.php?id=762079
+陈翔六点半,http://48tv.cn/jx/huya.php?id=11274154&type=.m3u8#http://121.51.94.19/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8#http://auney.gearhostpreview.com/huya.php?id=11274154
+相声小品,http://hy.tushepy.com/pls/huya.php?id=11352938#http://121.51.94.19/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
+徐克,http://121.51.94.19/tx.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352909#http://kuqq.tk/00/huya.php?id=11352909
 私人定制,https://6721.liveplay.now.qq.com/live/6721_c04dd8034789b72139d9507d485d12e8.m3u8?txSecret=ae1006b30fd718b12626a11d5a94ab04&txTime=61052B6
-金庸频道,http://hy.tushepy.com/pls/huya.php?id=11342427#http://kuqq.tk/00/huya.php?id=11342427
 科幻电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 金马影院,https://pull.kktv8.com/livekktv/128600025/playlist.m3u8#https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
 舌尖美食,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/735500/live_376772_5761871.m3u8
