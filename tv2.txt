@@ -478,7 +478,7 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 ○影视○,#genre#
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8#https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
-邵氏电影,http://skylin.ke22.aihost69.top/douyu.php?id=4246519#https://1332355592.top/live/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
+邵氏电影,http://59.45.88.18:1005/dy.php?id=4246519#http://skylin.ke22.aihost69.top/douyu.php?id=4246519#https://1332355592.top/live/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
 漫威DC,http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=33abbfbc6d9f10f475496bf611f8902a&txTime=6117e8b8
 漫威十周年系列,http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=32c7ecb532e72974bc576735eaa330c9&txTime=611931c4
 24精彩,http://3954-out.liveplay.myqcloud.com/live/3954_788740506.flv?bizid=3954&txSecret=7e618b092c28576c0201b0d62b46aabe&txTime=6119f069
@@ -492,19 +492,19 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 古    装,http://va.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv
 镖行天下,http://hy.tushepy.com/pls/huya.php?id=11352969#http://kuqq.tk/00/huya.php?id=11352969
 动作大片,http://121.51.94.19/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
-动作 灾难,http://blanki.cf/api/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
-欧美 科幻,http://epg.112114.xyz/douyu/20415
-恐怖灾难,http://epg.112114.xyz/douyu/263824
-国语译制,http://epg.112114.xyz/douyu/2436390
-华语 经典,http://epg.112114.xyz/douyu/122402
-喜剧,http://epg.112114.xyz/douyu/85894
-科幻电影,http://epg.112114.xyz/douyu/36337
-粤语,http://epg.112114.xyz/douyu/5033502
-经典粤语,http://epg.112114.xyz/douyu/6566671
-科幻 动作,http://epg.112114.xyz/douyu/252802
-动作 经典,http://epg.112114.xyz/douyu/4332
-喜剧科幻灾难,http://epg.112114.xyz/douyu/3346305
-爱笑会议室,http://epg.112114.xyz/douyu/9288541
+动作 灾难,http://59.45.88.18:1005/dy.php?id=248753#http://blanki.cf/api/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
+欧美 科幻,http://59.45.88.18:1005/dy.php?id=20415#http://epg.112114.xyz/douyu/20415
+恐怖灾难,http://59.45.88.18:1005/dy.php?id=263824#http://epg.112114.xyz/douyu/263824
+国语译制,http://59.45.88.18:1005/dy.php?id=2436390#http://epg.112114.xyz/douyu/2436390
+华语 经典,http://59.45.88.18:1005/dy.php?id=122402#http://epg.112114.xyz/douyu/122402
+喜剧,http://59.45.88.18:1005/dy.php?id=85894#http://epg.112114.xyz/douyu/85894
+科幻电影,http://59.45.88.18:1005/dy.php?id=36337#http://epg.112114.xyz/douyu/36337
+粤语,http://59.45.88.18:1005/dy.php?id=5033502#http://epg.112114.xyz/douyu/5033502
+经典粤语,http://59.45.88.18:1005/dy.php?id=6566671#http://epg.112114.xyz/douyu/6566671
+科幻 动作,http://59.45.88.18:1005/dy.php?id=252802#http://epg.112114.xyz/douyu/252802
+动作 经典,http://59.45.88.18:1005/dy.php?id=4332#http://epg.112114.xyz/douyu/4332
+喜剧科幻灾难,http://59.45.88.18:1005/dy.php?id=3346305#http://epg.112114.xyz/douyu/3346305
+爱笑会议室,http://59.45.88.18:1005/dy.php?id=9288541#http://epg.112114.xyz/douyu/9288541
 80脱口秀,http://48tv.cn/jx/huya.php?id=11352961&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352961
 历年贺岁档,http://121.51.94.19/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8#http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11601986
 香港贺岁片爆笑,http://121.51.94.19/tx.hls.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=21059561
@@ -519,6 +519,8 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 私人定制,https://6721.liveplay.now.qq.com/live/6721_c04dd8034789b72139d9507d485d12e8.m3u8?txSecret=ae1006b30fd718b12626a11d5a94ab04&txTime=61052B6
 科幻电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 金马影院,https://pull.kktv8.com/livekktv/128600025/playlist.m3u8#https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
+电影放映厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/995887/live_400392_6822511.m3u8 
+
 舌尖美食,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/735500/live_376772_5761871.m3u8
 ○陆小凤传奇○,#genre#
 陆小凤传奇之决战前后,https://vod.bunediy.com/20200508/MezAYhiG/index.m3u8
