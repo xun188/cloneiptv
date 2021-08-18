@@ -474,11 +474,12 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.3:1935/livetv/natlgeo
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 ○影视○,#genre#
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8#https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
-邵氏电影,http://59.45.88.18:1005/dy.php?id=4246519#http://skylin.ke22.aihost69.top/douyu.php?id=4246519#https://1332355592.top/live/douyu.php?id=4246519#http://tx2play1.douyucdn.cn/live/4246519r6IV8SY7R.m3u8#http://106.53.212.251/iptv/douyu.php?id=4246519
+邵氏电影,http://epg.112114.xyz/douyu/4246519
 漫威DC,http://3954-out.liveplay.myqcloud.com/live/3954_616645877.flv?bizid=3954&txSecret=33abbfbc6d9f10f475496bf611f8902a&txTime=6117e8b8
 漫威十周年系列,http://3954-out.liveplay.myqcloud.com/live/3954_360126181.flv?bizid=3954&txSecret=32c7ecb532e72974bc576735eaa330c9&txTime=611931c4
 24精彩,http://3954-out.liveplay.myqcloud.com/live/3954_788740506.flv?bizid=3954&txSecret=7e618b092c28576c0201b0d62b46aabe&txTime=6119f069
