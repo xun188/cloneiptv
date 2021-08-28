@@ -493,19 +493,19 @@ HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 古    装,http://va.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv
 镖行天下,http://121.51.94.19/tx.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352969#http://kuqq.tk/00/huya.php?id=11352969
 动作大片,http://121.51.94.19/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
-动作 灾难,http://59.45.88.18:1005/dy.php?id=248753#http://blanki.cf/api/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
-欧美 科幻,http://59.45.88.18:1005/dy.php?id=20415#http://epg.112114.xyz/douyu/20415
-恐怖灾难,http://59.45.88.18:1005/dy.php?id=263824#http://epg.112114.xyz/douyu/263824
-国语译制,http://59.45.88.18:1005/dy.php?id=2436390#http://epg.112114.xyz/douyu/2436390
-华语 经典,http://59.45.88.18:1005/dy.php?id=122402#http://epg.112114.xyz/douyu/122402
-喜剧,http://59.45.88.18:1005/dy.php?id=85894#http://epg.112114.xyz/douyu/85894
-科幻电影,http://59.45.88.18:1005/dy.php?id=36337#http://epg.112114.xyz/douyu/36337
-粤语,http://59.45.88.18:1005/dy.php?id=5033502#http://epg.112114.xyz/douyu/5033502
-经典粤语,http://59.45.88.18:1005/dy.php?id=6566671#http://epg.112114.xyz/douyu/6566671
-科幻 动作,http://59.45.88.18:1005/dy.php?id=252802#http://epg.112114.xyz/douyu/252802
-动作 经典,http://59.45.88.18:1005/dy.php?id=4332#http://epg.112114.xyz/douyu/4332
-喜剧科幻灾难,http://59.45.88.18:1005/dy.php?id=3346305#http://epg.112114.xyz/douyu/3346305
-爱笑会议室,http://59.45.88.18:1005/dy.php?id=9288541#http://epg.112114.xyz/douyu/9288541
+动作 灾难,http://vip.usa7.345123.xyz/douyu.php?id=248753#http://blanki.cf/api/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
+欧美 科幻,http://vip.usa7.345123.xyz/douyu.php?id=20415#http://epg.112114.xyz/douyu/20415
+恐怖灾难,http://vip.usa7.345123.xyz/douyu.php?id=263824#http://epg.112114.xyz/douyu/263824
+国语译制,http://vip.usa7.345123.xyz/douyu.php?id=2436390#http://epg.112114.xyz/douyu/2436390
+华语 经典,http://vip.usa7.345123.xyz/douyu.php?id=122402#http://epg.112114.xyz/douyu/122402
+喜剧,http://vip.usa7.345123.xyz/douyu.php?id=85894#http://epg.112114.xyz/douyu/85894
+科幻电影,http://vip.usa7.345123.xyz/douyu.php?id=36337#http://epg.112114.xyz/douyu/36337
+粤语,http://vip.usa7.345123.xyz/douyu.php?id=5033502#http://epg.112114.xyz/douyu/5033502
+经典粤语,http://vip.usa7.345123.xyz/douyu.php?id=6566671#http://epg.112114.xyz/douyu/6566671
+科幻 动作,http://vip.usa7.345123.xyz/douyu.php?id=252802#http://epg.112114.xyz/douyu/252802
+动作 经典,http://vip.usa7.345123.xyz/douyu.php?id=4332#http://epg.112114.xyz/douyu/4332
+喜剧科幻灾难,http://vip.usa7.345123.xyz/douyu.php?id=3346305#http://epg.112114.xyz/douyu/3346305
+爱笑会议室,http://vip.usa7.345123.xyz/douyu.php?id=9288541#http://epg.112114.xyz/douyu/9288541
 80脱口秀,http://48tv.cn/jx/huya.php?id=11352961&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352961
 历年贺岁档,http://121.51.94.19/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8#http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11601986
 香港贺岁片爆笑,http://121.51.94.19/tx.hls.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=21059561
