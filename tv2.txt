@@ -280,16 +280,16 @@ http://39.135.140.104:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/index.m3u8
 黑龙江卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227056/index.m3u8
 音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://117.169.120.138:8080/live/fhzixun/.m3u8
+鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#http://ye23.win/iptv/fh.php?id=zxhd
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 乡村瑶哥,http://48tv.cn/jx/huya.php?id=21354502&type=.m3u8#http://121.51.94.19/tx.hls.huya.com/src/1199532433820-1199532433820-5310977183219449856-2399064991096-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=21354502
 乡村美食炊二锅,http://48tv.cn/jx/huya.php?id=24309217&type=.m3u8#http://txtest-xp2p.p2p.huya.com/src/1199571758123-1199571758123-5479873778542444544-2399143639702-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24309217
 胖妹美食,http://48tv.cn/jx/huya.php?id=24430811&type=.m3u8#http://txtest-xp2p.p2p.huya.com/src/2752-2752-11819749998592-2399147056830-10057-A-0-1.flv#http://auney.gearhostpreview.com/huya.php?id=24430811
 舌尖上的中国,http://auney.gearhostpreview.com/huya.php?id=11352955
-随手做美食,http://skylin.ke22.aihost69.top/douyu.php?id=9615087#https://1332355592.top/live/douyu.php?id=9615087#http://epg.112114.xyz/douyu/9615087#http://www.gz6hs.com/tv/douyu.php?id=9615087
-大海哥美食,http://skylin.ke22.aihost69.top/douyu.php?id=9696878#https://1332355592.top/live/douyu.php?id=9696878#http://epg.112114.xyz/douyu/9696878#http://www.gz6hs.com/tv/douyu.php?id=9696878
-美食作家王刚,http://skylin.ke22.aihost69.top/douyu.php?id=8144937#https://1332355592.top/live/douyu.php?id=8144937#http://epg.112114.xyz/douyu/8144937#http://www.gz6hs.com/tv/douyu.php?id=8144937
-厨师长农国栋,http://skylin.ke22.aihost69.top/douyu.php?id=8941512#https://1332355592.top/live/douyu.php?id=8941512#http://epg.112114.xyz/douyu/8941512#http://www.gz6hs.com/tv/douyu.php?id=8941512
+随手做美食,http://epg.112114.xyz/douyu/9615087#http://dyscdnali1.douyucdn.cn/live/9615087rSP9QV3h8.flv?uuid=
+大海哥美食,http://epg.112114.xyz/douyu/9696878#http://dyscdnali1.douyucdn.cn/live/9696878rRqOmsJ5G.flv?uuid=
+美食作家王刚,http://epg.112114.xyz/douyu/8144937#http://dyscdnali1.douyucdn.cn/live/8144937ru3ptizzM.flv?uuid=
+厨师长农国栋,http://epg.112114.xyz/douyu/8941512#http://dyscdnali1.douyucdn.cn/live/8941512r9N2dwvba.flv?uuid=
 ○地方○,#genre#
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls#http://149.129.100.78/jxtv.php?id=jxtv2#http://39.135.138.6:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
 江西都市,http://39.135.138.6:6610/PLTV/88888888/224/3221225584/2/index.m3u8
@@ -461,22 +461,51 @@ Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-
 
 
 ○港澳○,#genre#
-凤凰中文台,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8$FJ720P#https://player.ggiptv.com/v/ifeng.php?id=2#rtmp://58.200.131.2:1935/livetv/fhzw#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8#http://live.centerch.com/fhzw.m3u8
-凤凰资讯台,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8$FJ720P#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228016/index.m3u8$JS1080P#https://d158f3mdhc5kf4.cloudfront.net/p1_cbr_lo_720p.m3u8#http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1#rtmp://58.200.131.2:1935/livetv/fhzx#http://live.centerch.com/fhzx.m3u8
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
-凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
+凤凰资讯台,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://185.207.176.189:8080/channels/tv-81/mpeg.2ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/mpeg.2ts#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-#https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84b/index.m3u8
-星空衛視,rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv
+翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+翡翠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+翡翠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1翡翠台
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+明珠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+TVB-星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
-国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.3:1935/livetv/natlgeo
+国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+八度空间,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+Astro-港剧台,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+Astro-港剧台,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+Astro-港剧台,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 ○影视○,#genre#
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8#https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 邵氏电影,http://epg.112114.xyz/douyu/4246519
@@ -490,30 +519,28 @@ HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 喜剧影院,http://39.134.39.39/270000001322/69900158041111100000002189/index.m3u8
 动作影院,http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
 武侠剧场,http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
-古    装,http://va.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv
+古    装,http://va.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.flv#http://121.51.94.19/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
 镖行天下,http://121.51.94.19/tx.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352969#http://kuqq.tk/00/huya.php?id=11352969
 动作大片,http://121.51.94.19/tx.hls.huya.com/src/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1_2000.m3u8
-动作 灾难,http://vip.usa7.345123.xyz/douyu.php?id=248753#http://blanki.cf/api/douyu.php?id=248753#http://epg.112114.xyz/douyu/248753
-欧美 科幻,http://vip.usa7.345123.xyz/douyu.php?id=20415#http://epg.112114.xyz/douyu/20415
-恐怖灾难,http://vip.usa7.345123.xyz/douyu.php?id=263824#http://epg.112114.xyz/douyu/263824
-国语译制,http://vip.usa7.345123.xyz/douyu.php?id=2436390#http://epg.112114.xyz/douyu/2436390
-华语 经典,http://vip.usa7.345123.xyz/douyu.php?id=122402#http://epg.112114.xyz/douyu/122402
-喜剧,http://vip.usa7.345123.xyz/douyu.php?id=85894#http://epg.112114.xyz/douyu/85894
-科幻电影,http://vip.usa7.345123.xyz/douyu.php?id=36337#http://epg.112114.xyz/douyu/36337
-粤语,http://vip.usa7.345123.xyz/douyu.php?id=5033502#http://epg.112114.xyz/douyu/5033502
-经典粤语,http://vip.usa7.345123.xyz/douyu.php?id=6566671#http://epg.112114.xyz/douyu/6566671
-科幻 动作,http://vip.usa7.345123.xyz/douyu.php?id=252802#http://epg.112114.xyz/douyu/252802
-动作 经典,http://vip.usa7.345123.xyz/douyu.php?id=4332#http://epg.112114.xyz/douyu/4332
-喜剧科幻灾难,http://vip.usa7.345123.xyz/douyu.php?id=3346305#http://epg.112114.xyz/douyu/3346305
-爱笑会议室,http://vip.usa7.345123.xyz/douyu.php?id=9288541#http://epg.112114.xyz/douyu/9288541
-80脱口秀,http://48tv.cn/jx/huya.php?id=11352961&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352961
+动作 灾难,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
+欧美 科幻,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=20415#http://epg.112114.xyz/douyu/20415
+恐怖灾难,http://dyscdnali1.douyucdn.cn/live/263824rRfZVWVD72.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=263824#http://epg.112114.xyz/douyu/263824
+国语译制,http://dyscdnali1.douyucdn.cn/live/2436390r5RtlS0xH.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=2436390#http://epg.112114.xyz/douyu/2436390
+华语 经典,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=122402#http://epg.112114.xyz/douyu/122402
+喜剧,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=85894#http://epg.112114.xyz/douyu/85894
+科幻电影,http://dyscdnali1.douyucdn.cn/live/36337rV0DV1Tki6h.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=36337#http://epg.112114.xyz/douyu/36337
+粤语,http://dyscdnali1.douyucdn.cn/live/5033502rnbt5RI3w.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=5033502#http://epg.112114.xyz/douyu/5033502
+经典粤语,http://dyscdnali1.douyucdn.cn/live/6566671rMRljt7IV.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=6566671#http://epg.112114.xyz/douyu/6566671
+科幻 动作,http://dyscdnali1.douyucdn.cn/live/252802rrlYNyhP6u.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=252802#http://epg.112114.xyz/douyu/252802
+动作 经典,http://dyscdnali1.douyucdn.cn/live/4332raxLBqa7CMTd.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=4332#http://epg.112114.xyz/douyu/4332
+爱笑会议室,http://dyscdnali1.douyucdn.cn/live/9288541rVbQwhe6s.flv?uuid=#http://vip.usa7.345123.xyz/douyu.php?id=9288541#http://epg.112114.xyz/douyu/9288541
 历年贺岁档,http://121.51.94.19/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1-imgplus.m3u8#http://48tv.cn/jx/huya.php?id=11601986&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11601986
 香港贺岁片爆笑,http://121.51.94.19/tx.hls.huya.com/src/1099531752755-1099531752755-86436126637686784-2199063628966-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=21059561
 中国功夫,http://121.51.94.19/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11352941&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352941
 金庸的武侠世界,http://121.51.94.19/tx.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11342435&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11342435
 爆笑大片,http://121.51.94.19/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11352954&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352954
 愚人节一起笑破肚皮,http://121.51.94.19/tx.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8#http://48tv.cn/jx/huya.php?id=11336590&type=.m3u8#http://hy.tushepy.com/pls/huya.php?id=11336590
-最爱脱口秀,http://121.51.94.19/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://48tv.cn/jx/huya.php?id=762079&type=.m3u8#http://blanki.cf/api/douyu.php?id=762079
+最爱脱口秀,http://48tv.cn/jx/huya.php?id=11352961&type=.m3u8#http://121.51.94.19/tx.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1_2000.m3u8#http://48tv.cn/jx/huya.php?id=762079&type=.m3u8
 陈翔六点半,http://48tv.cn/jx/huya.php?id=11274154&type=.m3u8#http://121.51.94.19/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus_2000.m3u8#http://auney.gearhostpreview.com/huya.php?id=11274154
 相声小品,http://hy.tushepy.com/pls/huya.php?id=11352938#http://121.51.94.19/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 徐克,http://121.51.94.19/tx.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8#http://hy.tushepy.com/pls/huya.php?id=11352909#http://kuqq.tk/00/huya.php?id=11352909
@@ -521,8 +548,12 @@ HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 科幻电影,https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 金马影院,https://pull.kktv8.com/livekktv/128600025/playlist.m3u8#https://pull.kktv8.com/livekktv/128600025.flv?_t=0.03302458679376152
 电影放映厅,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/995887/live_400392_6822511.m3u8 
+中华美食,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
+爱美食,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8
+美食中国,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/828304ee9a0e4c1f97a1d2f6986b1290/1200.m3u8
+美食记录,http://iptv.97n.top/api/huya.php?id=11352955#http://121.12.115.118/tx.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1-imgplus.m3u8
 
-舌尖美食,https://cn-fjqz-cmcc-live-02.bilivideo.com/live-bvc/735500/live_376772_5761871.m3u8
+
 ○陆小凤传奇○,#genre#
 陆小凤传奇之决战前后,https://vod.bunediy.com/20200508/MezAYhiG/index.m3u8
 陆小凤传奇之银钩赌坊,https://vod.bunediy.com/20210319/MJnns4Eg/index.m3u8
