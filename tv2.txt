@@ -882,21 +882,12 @@ CCTV17,http://117.148.179.160/PLTV/88888888/224/3221231739/index.m3u8
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
-TVB-星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
 国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.3:1935/livetv/discovery
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-八度空间,http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
-Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-Astro-港剧台,http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
-Astro-港剧台,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-Astro-港剧台,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-Astro-港剧台,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+天映频道,http://43.128.9.168/jjtv.php?id=63#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8#http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 ○影视○,#genre#
 邵氏老电影,http://080880qazwsx.ve5.aihost10.top/bz.php?id=21759196#http://vip.usa7.345123.xyz/bili.php?id=21759196#http://103.140.229.13/BOBO/bibi.php?id=21759196#http://080880qazwsx.ve5.aihost10.top/bz.php?id=21759196
 邵氏电影,http://epg.112114.xyz/douyu/4246519#http://vip.usa7.345123.xyz/douyu.php?id=4246519#http://cloudplay.tk/api/douyu.php?id=4246519#http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=4246519
