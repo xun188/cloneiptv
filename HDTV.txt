@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV-1FHD,http://183.242.49.77/live/CCTV1x综合/index.m3u8
 CCTV-2FHD,http://183.242.49.77/live/CCTV2x财经/index.m3u8
 CCTV-3FHD,http://183.242.49.77/live/CCTV3x综艺/index.m3u8
@@ -13,6 +14,7 @@ CCTV-12FHD,http://183.242.49.77/live/CCTV12x社会与法/index.m3u8
 CCTV-13FHD,http://183.242.49.77/live/CCTV13x新闻/index.m3u8
 CCTV-14FHD,http://183.242.49.77/live/CCTV14x少儿/index.m3u8
 CCTV-15FHD,http://183.242.49.77/live/CCTV15x音乐/index.m3u8
+卫视频道,#genre#
 湖南卫视,http://183.242.49.77/live/湖南卫视/index.m3u8
 浙江卫视,http://183.242.49.77/live/浙江卫视/index.m3u8
 江苏卫视,http://183.242.49.77/live/江苏卫视/index.m3u8
